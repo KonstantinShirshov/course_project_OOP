@@ -1,36 +1,46 @@
-from abc import ABC, abstractmethod
+from typing import List, Dict
 
 
-class Saver(ABC):
-    """Абстрактный класс для сохранения данных с вакансиями в файл разном виде"""
+def filter_vacancies(vacancies_list: List, filter_word: str) -> List:
+    """Функция для фильтрации вакансий по заданному слову в описании"""
 
-    @abstractmethod
-    def add_vacancy(self, vacancy):
-        """Функция для добавления вакансии"""
-        pass
-
-    @abstractmethod
-    def read_file(self):
-        """Функция для получения вакансий из файла"""
-        pass
-
-    @abstractmethod
-    def delete_vacancies(self):
-        """Функция для удаления вакансий"""
-        pass
-
-class JSONSaver(Saver):
-    """Класс для сохранения данных в файл JSON и работы с ним"""
-
-    def
+    filter_word = filter_word.lower()
+    filtered_vacancies_list = [vacancy for vacancy in vacancies_list if filter_word in vacancy.description.lower()]
+    return filtered_vacancies_list
 
 
-    def add_vacancy(self, vacancy):
-        pass
+def get_vacancy_by_salary(vacancies_list: List, filter_salary: str) -> List[Dict]:
+    """Функция для фильтрации вакансий по заданной зарплате
+    (оставляет вакансии с зарплатой выше либо равной указанной пользователем)"""
 
-    def read_file(self):
-        pass
+    filtered_vacancies_list = []
+    for vacancy in vacancies_list:
+        if vacancy.salary >= int(filter_salary):
+            filtered_vacancies_list.append(vacancy)
+    return filtered_vacancies_list
 
-    def delete_vacancies(self):
-        pass
 
+def sort_vacancies(vacancies_list: List) -> List:
+    """Функция для сортировки вакансий по зарплате (по убыванию)"""
+
+    vacancies_list.sort(key=lambda x: x.salary, reverse=True)
+    return vacancies_list
+
+
+def get_top_vacancies(vacancies_list: List, top_n: int) -> List:
+    """Функция для получения топ N вакансий (N указывает пользователь)"""
+    top_vacancies = []
+    if top_n < len(vacancies_list):
+        top_vacancies = vacancies_list[0:(top_n-1)]
+        return top_vacancies
+    else:
+        top_vacancies = vacancies_list
+        return top_vacancies
+
+
+def print_vacancies(vacancies_list: List) -> None:
+    """Функция для вывода вакансий на экран"""
+
+    for vacancy in vacancies_list:
+        print(f'Вакансия 1: {vacancy}')
+    return

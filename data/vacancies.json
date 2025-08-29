@@ -1,0 +1,4017 @@
+[
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124461520",
+        "salary": null,
+        "description": "Следить за скоростью и безопасностью платформы. Опыт с <highlighttext>Java</highlighttext> 11+, Spring Boot, Spring Data, Spring Security. Знание REST API..."
+    },
+    {
+        "name": "Dasturchi",
+        "vacancy_id": "124470522",
+        "salary": null,
+        "description": "Опыт работы с языками программирования (например: Python, JavaScript, <highlighttext>Java</highlighttext>). Знание фреймворков (Django, React или аналогов). Умение работать с базами данных..."
+    },
+    {
+        "name": "Java программист",
+        "vacancy_id": "124592621",
+        "salary": null,
+        "description": "Знание инструментов Redis, Rabbit, ELK, Consul, Microservices, Oauth2 protocol. Опыт работы Backend с <highlighttext>Java</highlighttext> 17+, Spring boot 3..."
+    },
+    {
+        "name": "Программист, IT-поддержка и развитие информационных систем",
+        "vacancy_id": "124573413",
+        "salary": {
+            "from": 250000,
+            "to": 400000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Высшее оконченное образование в сфере IT. Коммуникабельность/ответственность. Знание языков программирования, баз данных, API. Понимание микросервисной архитектуры, подходов к межсервисному..."
+    },
+    {
+        "name": "Senior Frontend Developer (ReactJS)",
+        "vacancy_id": "124590982",
+        "salary": null,
+        "description": "Strong understanding of basic algorithms and data structures. 5+ years of experience in commercial UI development. Strong JavaScript expertise. "
+    },
+    {
+        "name": "Middle Frontend Engineer (React / TypeScript / FSD / SPA Dockerized)",
+        "vacancy_id": "124623499",
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Обязательные Требования: 2+ года опыта коммерческой разработки на React + TypeScript. Отличное знание React 18+, hooks, effects, мемоизации. "
+    },
+    {
+        "name": "Front-end разработчик (REACT)",
+        "vacancy_id": "124555626",
+        "salary": null,
+        "description": "Опыт разработки на «JavaScript», «DHTMLX»/«Angular»/«React», «<highlighttext>Java</highlighttext>», «Python». Желателен опыт проектирования и разработки микросервисных и транзакционных решений. "
+    },
+    {
+        "name": "Middle frontend developer",
+        "vacancy_id": "124489232",
+        "salary": {
+            "from": null,
+            "to": 10,
+            "currency": "EUR",
+            "gross": true
+        },
+        "description": "ReactJS - от 1-го года. Опыт командной разработки от 1-го года. Способность планирования рабочего времени. Ответственность, внимание к деталям. "
+    },
+    {
+        "name": "Middle QA на проект СБП",
+        "vacancy_id": "124291643",
+        "salary": null,
+        "description": "Имеешь опыт тестирования web- и мобильных приложений. Знаешь основы ООП (<highlighttext>Java</highlighttext>/Kotlin/Swift и др.). Понимаешь работу HTTP, REST, JSON..."
+    },
+    {
+        "name": "Middle Java разработчик",
+        "vacancy_id": "124618534",
+        "salary": null,
+        "description": "Знание <highlighttext>Java</highlighttext> 8+, опыт работы с легаси кодом. Sping (Spring Boot, Spring Data). SQL (MySQL, Postgres). Опыт работы с..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124590752",
+        "salary": {
+            "from": 700000,
+            "to": 1200000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "<highlighttext>Java</highlighttext> 8, <highlighttext>Java</highlighttext> 17, Spring boot, <highlighttext>Java</highlighttext> EE, JSF, REST, MariaDB, MySQL, Git."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124573556",
+        "salary": {
+            "from": 25000000,
+            "to": null,
+            "currency": "UZS",
+            "gross": false
+        },
+        "description": "Опыт разработки высоконагруженных систем и решения задач по оптимизации производительности. <highlighttext>Java</highlighttext> 11, Kotlin, Spring, Gradle. Postgres, Kafka, S3. "
+    },
+    {
+        "name": "Java Developer",
+        "vacancy_id": "124621112",
+        "salary": {
+            "from": 500,
+            "to": 1500,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Понимание жизненного цикла разработки программного обеспечения. - Опыт работы с <highlighttext>Java</highlighttext>. - Владение навыками разработки баз данных SQL, написание и оптимизация SQL..."
+    },
+    {
+        "name": "Frontend-разработчик (React)",
+        "vacancy_id": "124608172",
+        "salary": {
+            "from": 120000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт продуктовой разработки на React от 3 лет. Знание JavaScript (ES6+), HTML, CSS. Понимание REST API и асинхронного..."
+    },
+    {
+        "name": "Системный инженер-тестировщик",
+        "vacancy_id": "124632175",
+        "salary": null,
+        "description": "Опыт работы с консолью Windows и Unix-подобными системами. Понимание работы <highlighttext>Java</highlighttext>-приложений. Понимание клиент-серверной архитектуры. Базовые знания СУБД..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124464167",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> Spring от 3 лет. Уверенное знание <highlighttext>Java</highlighttext> и Spring Framework (Core, Boot, MVC). "
+    },
+    {
+        "name": "QA engineer (ручной)",
+        "vacancy_id": "124474601",
+        "salary": null,
+        "description": "Работал с GIT, GitLab, Github. Понимание языков программирования(JavaScript, <highlighttext>Java</highlighttext>, Python и т.п.). Читаешь и анализируешь логи (Grafana). "
+    },
+    {
+        "name": "Java Backend Developer (Middle+/Senior) / Разработчик Java Backend (Middle+/Senior)",
+        "vacancy_id": "124546726",
+        "salary": {
+            "from": 5000,
+            "to": 5500,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Опыт работы от 3 до 6+ лет в разработке backend на <highlighttext>Java</highlighttext>. - Отличное владение английским языком (минимум уровень B..."
+    },
+    {
+        "name": "Java-разработчик в продуктовый проект",
+        "vacancy_id": "124593890",
+        "salary": {
+            "from": null,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Умение работать в команде. Требования: Хороший уровень владения <highlighttext>Java</highlighttext> 17-21, Spring, SQL (PL/SQL). Знание ОРМ Hibernate, spring-boot..."
+    },
+    {
+        "name": "Junior backend developer",
+        "vacancy_id": "124599868",
+        "salary": null,
+        "description": "Уверенно владеешь SQL. Знаешь PHP или другие языки программирования (C++, <highlighttext>Java</highlighttext> и т.п.), но готов углубленно изучать PHP. "
+    },
+    {
+        "name": "Middle QA тестировщик",
+        "vacancy_id": "124533958",
+        "salary": null,
+        "description": "Опыт автоматизации функционального тестирования мобильных приложений. Знание одного или нескольких языков программирования: <highlighttext>Java</highlighttext>, Kotlin, Swift. Понимание процессов CI/CD, опыт..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124559033",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext>. Отличное знание принципов ООП и популярных паттернов проектирования. Опыт работы с системами контроля версий (Git). "
+    },
+    {
+        "name": "Manual QA Engineer (Тестировщик)",
+        "vacancy_id": "124011817",
+        "salary": {
+            "from": null,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Будет плюсом если: Имеете опыт тестирования банковских приложений или платежных систем. Знаете <highlighttext>Java</highlighttext> на уровне достаточном для разработки автотестов. "
+    },
+    {
+        "name": "Python Backend-разработчик / Backend-developer",
+        "vacancy_id": "124517826",
+        "salary": null,
+        "description": "Требования (Ваш опыт и навыки): — Знание Python 3 и стандартной библиотеки. — Опыт работы с брокерами сообщений: RabbitMQ, Redis Streams. — "
+    },
+    {
+        "name": "Middle QA engineer",
+        "vacancy_id": "124064017",
+        "salary": null,
+        "description": "Образование Среднее-специальное, неоконченное высшее. Опыт работы в роли Manual QA от 3-х дет. Опыт работы в ИТ компаниях..."
+    },
+    {
+        "name": "Java-стажер",
+        "vacancy_id": "124072337",
+        "salary": null,
+        "description": "Умение проектировать и разрабатывать backend решения. Изучаете новые технологии и платформы. Знание <highlighttext>Java</highlighttext> 8+. Знание с реляционной СУБД. "
+    },
+    {
+        "name": "Стажер в IT",
+        "vacancy_id": "124547381",
+        "salary": null,
+        "description": "Technical Writing."
+    },
+    {
+        "name": "Разработчик (junior)",
+        "vacancy_id": "124335156",
+        "salary": {
+            "from": 60000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Понимание методологии программирования на объектно-ориентированных языках. Знание принципов построения и функционирования баз данных. Ответственность, желание профессионально развиваться, нацеленность на..."
+    },
+    {
+        "name": "Backend-разработчик",
+        "vacancy_id": "124496932",
+        "salary": null,
+        "description": "Знание английского языка на уровене Intermediate (B1). Умение программировать на языках <highlighttext>Java</highlighttext> (Spring Framework). СУБД: SQL, PostgreSQL. "
+    },
+    {
+        "name": "Ручной тестировщик",
+        "vacancy_id": "124604638",
+        "salary": null,
+        "description": "Опыт работы с брокерами сообщений (Kafka, RabbitMQ). Опыт написания автотестов на <highlighttext>Java</highlighttext> от 1 года (готовы рассмотреть без опыта, но..."
+    },
+    {
+        "name": "QA Engineer",
+        "vacancy_id": "124577680",
+        "salary": null,
+        "description": "Готовность к самостоятельному поиску информации и проактивный подход. Знание <highlighttext>Java</highlighttext> и опыт написания автотестов с использованием Appium. Понимание основ работы..."
+    },
+    {
+        "name": "Middle Go/Python разработчик",
+        "vacancy_id": "124604054",
+        "salary": null,
+        "description": "...будем рады рассмотреть твою кандидатуру! Владение chrome dev tools. Знание одного из ЯП на начальном уровне: Golang, <highlighttext>Java</highlighttext> Script, Python."
+    },
+    {
+        "name": "QA-инженер (manual)",
+        "vacancy_id": "124461230",
+        "salary": null,
+        "description": "Опыт тестирования REST API (инструменты: c URL, Postman/Insomnia). Опыт автоматизации тестирования (<highlighttext>Java</highlighttext>/Python, Gradle/Maven etc, Selenium WebDriwer (Selenide..."
+    },
+    {
+        "name": "Frontend Developer (Middle/Middle+)",
+        "vacancy_id": "124461107",
+        "salary": null,
+        "description": "Коммерческий опыт разработки на React/Next от 3 лет. Знание принципов адаптивной вёрстки и SCSS. Понимание HTTP-протокола (авторизация, сессии..."
+    },
+    {
+        "name": "Инженер по тестированию ПО / QA Engineer в MedTech (MedTech / Медицинские системы)",
+        "vacancy_id": "124583357",
+        "salary": {
+            "from": 80000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт автоматизации тестирования на любом языке/фреймворке (например, Python + Pytest, <highlighttext>Java</highlighttext> + Selenium/Selenide, JS + Cypress/Playwright). "
+    },
+    {
+        "name": "Разработчик Java",
+        "vacancy_id": "123642838",
+        "salary": {
+            "from": 300000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Физическое присутствие в Москве , готовность к редким встречам. Законченное высшее ИТ образование - желательно ведущие ВУЗы. Опыт работы в разработке от..."
+    },
+    {
+        "name": "Java-разработчик (банковский проект)",
+        "vacancy_id": "124507739",
+        "salary": null,
+        "description": "Уверенные знания <highlighttext>Java</highlighttext>8 - <highlighttext>Java</highlighttext>17 core, Spring Framework, Http. Хорошее знание PostgreSQL, SQL. Знание принципов ООП, шаблонов проектирования. "
+    },
+    {
+        "name": "Java-разработчик/middle (офис Санкт-Петербург)",
+        "vacancy_id": "124583157",
+        "salary": null,
+        "description": "Имели высшее техническое профильное образование (программист, программист математик). Имели хороший уровень владения <highlighttext>Java</highlighttext> 17+. Уверенно владели Project Reactor, Spring. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124016930",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>JAVA</highlighttext> 11 и выше, от 2,5 лет. Знание и опыт разработки на Spring Framework. "
+    },
+    {
+        "name": "Backend-разработчик Java",
+        "vacancy_id": "124414268",
+        "salary": {
+            "from": 6000,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "description": "Отличное знание <highlighttext>Java</highlighttext> 17 и экосистемы Spring: Boot, Data JPA, Security, Validation, AOP. - Опыт тестирования (JUnit, Mockito, Spring Boot Test). - "
+    },
+    {
+        "name": "Java developer (ГИС ГМП)",
+        "vacancy_id": "124510755",
+        "salary": null,
+        "description": "Что ты будешь делать. Имеешь опыт в роли разработчика ПО на <highlighttext>Java</highlighttext> от 3 лет. Имеешь опыт разработки REST API..."
+    },
+    {
+        "name": "Java разработчик / Backend Java Developer (Middle)",
+        "vacancy_id": "124317859",
+        "salary": {
+            "from": 170000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт коммерческой разработки от 3 лет. Уверенное владение стеком (<highlighttext>Java</highlighttext> 17, Spring Boot 3+, Hibernate, Liquibase). Готовность разбираться с..."
+    },
+    {
+        "name": "QA-инженер (mobile)",
+        "vacancy_id": "124190519",
+        "salary": null,
+        "description": "Уверенные знания теории тестирования, техник тест-дизайна, умения применять эти знания на практике. Опыт написания тестовой документации. Опыт тестирования требований. "
+    },
+    {
+        "name": "Frontend-разработчик (React)",
+        "vacancy_id": "124558225",
+        "salary": {
+            "from": 130000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт разработки: от 1 года коммерческой разработки на React.js. Технические навыки: Уверенное владение JavaScript/TypeScript. Опыт работы с HTML5..."
+    },
+    {
+        "name": "Разработчик мобильного приложения",
+        "vacancy_id": "124607496",
+        "salary": null,
+        "description": "Владение одним или несколькими стеками: Swift/Objective-C (iOS), Kotlin/<highlighttext>Java</highlighttext> (Android), Flutter/React Native (кроссплатформа). React Native - желательно. "
+    },
+    {
+        "name": "Backend разработчик (Java/Kotlin)",
+        "vacancy_id": "124560263",
+        "salary": null,
+        "description": "Имеешь опыт работы с <highlighttext>Java</highlighttext> и Spring Boot, особенно круто если еще и с Kotlin. Умеешь писать тесты на свой..."
+    },
+    {
+        "name": "Java разработчик (Проектное финансирование, домен В2В)",
+        "vacancy_id": "124554445",
+        "salary": null,
+        "description": "Знания и опыт в выстраивании процессов и повышении стандартов в команде разработки. Знание <highlighttext>Java</highlighttext>, Spring Core, Spring Data, Spring Boot..."
+    },
+    {
+        "name": "QA инженер",
+        "vacancy_id": "122988915",
+        "salary": null,
+        "description": "Наличия опыта автоматизации тестирования на языке <highlighttext>Java</highlighttext>. - Уверенное владение составлением SQL-запросов и работой с реляционными базами данных, особенно приветствуется..."
+    },
+    {
+        "name": "Разработчик Java",
+        "vacancy_id": "124531292",
+        "salary": null,
+        "description": "Базовое знание <highlighttext>Java</highlighttext>. Знание REST и SOAP. Опыт интеграционного взаимодействия с API (вызов из сервиса других сервисов REST/SOAP). "
+    },
+    {
+        "name": "Android разработчик (Маркировка)",
+        "vacancy_id": "124600424",
+        "salary": null,
+        "description": "Знание Kotlin/<highlighttext>Java</highlighttext>. Мы пишем всё на Kotlin, но иногда работаем со старыми сервисами, где есть <highlighttext>Java</highlighttext>. Понимание многопоточности и..."
+    },
+    {
+        "name": "Системный аналитик",
+        "vacancy_id": "124623487",
+        "salary": {
+            "from": null,
+            "to": 287400,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы с микросервисной архитектурой. Опыт проработки архитектуры решения. Опыт работы с <highlighttext>Java</highlighttext>, React JS. Знание и работы по методологии..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124403758",
+        "salary": {
+            "from": 150000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с <highlighttext>Java</highlighttext> от 1 до 3 лет. Знание Spring Framework и Hibernate. Умение работать с базами данных (SQL..."
+    },
+    {
+        "name": "Программист Java",
+        "vacancy_id": "123975380",
+        "salary": null,
+        "description": "Обладаешь уверенными знаниями в области объектно-ориентированного программирования. Имеешь опыт работы по данному направлению от 3-х лет в качестве..."
+    },
+    {
+        "name": "Junior java разработчик",
+        "vacancy_id": "123055331",
+        "salary": null,
+        "description": "Обязательно: опыт разработки Enterprise-приложений, Git, умение работать с багтрекером. <highlighttext>Java</highlighttext> 8 и выше, Spring Boot, Spring MVC, Spring Data..."
+    },
+    {
+        "name": "Разработчик Java",
+        "vacancy_id": "124510775",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Хорошее знание <highlighttext>Java</highlighttext> SE 17. Опыт работы со Spring Framework 3 (в том числе MVC, Spring Data, Spring boot). "
+    },
+    {
+        "name": "C#/.NET-разработчик",
+        "vacancy_id": "124561941",
+        "salary": null,
+        "description": "Будет плюсом: Знание языков программирования Python и <highlighttext>Java</highlighttext>, опыт их использования в проектах. Опыт работы с кластерами и распределенными системами. "
+    },
+    {
+        "name": "Тестировщик",
+        "vacancy_id": "123497673",
+        "salary": null,
+        "description": "Опыт работы с *nix системами, знание базовых bash команд. Уверенные знания <highlighttext>Java</highlighttext> Core. Имеет практический опыт в разработке автотестов (JUnit..."
+    },
+    {
+        "name": "Middle Java Developer (разработка продукта)",
+        "vacancy_id": "124587589",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "...<highlighttext>Java</highlighttext>, которые можно использовать повторно. Твердое понимание принципов микросервисной архитектуры. Умение писать чистый, эффективный и легкий для чтения код <highlighttext>Java</highlighttext>. "
+    },
+    {
+        "name": "Flutter-разработчик (iOS & Android)",
+        "vacancy_id": "124546235",
+        "salary": {
+            "from": 3000,
+            "to": 5000,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Будет плюсом: - Опыт работы с нативной разработкой iOS (Swift) или Android (Kotlin/<highlighttext>Java</highlighttext>). - Знание сервисов Firebase (Auth, Firestore, Push Notifications..."
+    },
+    {
+        "name": "Middle Java-разработчик",
+        "vacancy_id": "124164147",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "высшее техническое образование. - опыт коммерческой разработки на <highlighttext>Java</highlighttext> от 3-х лет. - опыт разработки на <highlighttext>Java</highlighttext> Spring Boot. - "
+    },
+    {
+        "name": "Junior Java Spring Developer",
+        "vacancy_id": "124464732",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание <highlighttext>Java</highlighttext> SE. Опыт работы с Spring Framework, Gradle. Опыт работы с реляционными базами данных (PostgreSQL). Знание RESTful services. "
+    },
+    {
+        "name": "Java разработчик на мобильную RTS (Junior)",
+        "vacancy_id": "124580702",
+        "salary": null,
+        "description": "Уверенные знания <highlighttext>Java</highlighttext> (от 8 и выше). Знание Spring (Boot, Data, Web, Cloud). Знание принципов ООП, ООД, архитектурных паттернов и..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124486850",
+        "salary": {
+            "from": null,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт командной коммерческой разработки на <highlighttext>Java</highlighttext> от 5-х лет. Spring. RabbitMQ/Kafka или аналоги. Знание NoSQL баз данных (mongoDB..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123468847",
+        "salary": {
+            "from": null,
+            "to": 230000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт разработки приложений на <highlighttext>Java</highlighttext> от 4 лет. Уверенное владение Spring Framework (Spring Boot) и Hibernate. Опыт работы с многопоточностью..."
+    },
+    {
+        "name": "Стажер-разработчик",
+        "vacancy_id": "123929821",
+        "salary": {
+            "from": 100000,
+            "to": 100000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Знание основ программирования. Знания любого языка программирования (JavaScript, PHP, Python, C#, <highlighttext>Java</highlighttext>, C, C++ и др). Писать код, понимать основные..."
+    },
+    {
+        "name": "Software Engineer",
+        "vacancy_id": "124618391",
+        "salary": {
+            "from": 4000,
+            "to": 10000,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Проекты в области AI/ML, Big Data, Cloud-инфраструктур. Современные стек-технологии: Kubernetes, Docker, Microservices, DevOps, High-load. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124511989",
+        "salary": null,
+        "description": "Опыт в разработке backend на <highlighttext>Java</highlighttext> от 3х лет. Уверенное знание <highlighttext>Java</highlighttext> 8, 11, 17, Spring Boot (Core, Security..."
+    },
+    {
+        "name": "Ведущий разработчик Java",
+        "vacancy_id": "124552708",
+        "salary": null,
+        "description": "Опыт разработки приложений на <highlighttext>Java</highlighttext> 8 и выше. Отличное знание Spring (Spring Boot, Spring JPA, Spring Cloud). Знание протокола HTTP..."
+    },
+    {
+        "name": "Junior Java Developer",
+        "vacancy_id": "124449187",
+        "salary": {
+            "from": 400000,
+            "to": 600000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Опыт: от 0.5 года (коммерческие проекты или стажировки). <highlighttext>Java</highlighttext> 17 — уверенное знание ООП, коллекций, исключений, потоков. Spring Boot — REST..."
+    },
+    {
+        "name": "Manual QA Engineer",
+        "vacancy_id": "109239766",
+        "salary": null,
+        "description": "Имеете опыт автоматизации тестирования на Python или <highlighttext>Java</highlighttext>. Имеете опыт работы с радиоэлектронной аппаратурой. Имеете опыт адаптации тестирования под требования..."
+    },
+    {
+        "name": "QA Engineer",
+        "vacancy_id": "124448635",
+        "salary": null,
+        "description": "...серверной архитектуры, будет плюсом понимание взаимодействия микросервисов. Имеет представление об Agile, Daily Meetings. Будет плюсом умение (желание) писать автотесты (<highlighttext>Java</highlighttext>)."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124455794",
+        "salary": null,
+        "description": "Опыт разработки на Oracle от 2-х лет. Знания <highlighttext>Java</highlighttext> Spring, Hibernate (ORM), REST API. Хорошие знания, RabbitMQ, Kafka. "
+    },
+    {
+        "name": "Начинающий тестировщик",
+        "vacancy_id": "124214735",
+        "salary": {
+            "from": 100000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "...кейсов, баз UI/UX. Готовность работать полный день. Плюсом будет: Знание SQL. Базовые навыки программирования (Python, PHP, JavaScript, <highlighttext>Java</highlighttext>, Golang)."
+    },
+    {
+        "name": "Middle Java-разработчик",
+        "vacancy_id": "124379190",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "У тебя есть 4+ лет опыта разработки на <highlighttext>Java</highlighttext>. Ты хорошо владеешь Spring Framework и Spring Boot. "
+    },
+    {
+        "name": "Системный аналитик (проект ПФЧ)",
+        "vacancy_id": "124557672",
+        "salary": null,
+        "description": "Опыт 1-3 года в анализе, умение выявлять и описывать требования. Понимание построения диаграмм в нотациях UML, BPMN. "
+    },
+    {
+        "name": "Java-разработчик Klieber (Гибридный формат)",
+        "vacancy_id": "124575791",
+        "salary": {
+            "from": null,
+            "to": 287356,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт командной разработки коммерческих приложений на <highlighttext>Java</highlighttext> (8/11/15/17) от 3-х лет. Опыт проектирования и разработки высоконагруженных..."
+    },
+    {
+        "name": "Android-разработчик (Kotlin)",
+        "vacancy_id": "124592974",
+        "salary": {
+            "from": 220000,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт в разработке Android от 3-х лет. Свободное владение Kotlin и Android SDK. Знание архитектурного паттерна MVVM (присматриваемся к..."
+    },
+    {
+        "name": "Инженер-тестировщик",
+        "vacancy_id": "124419694",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Читаешь и понимаешь документацию на английском без затруднений. Знаешь хотя бы один высокоуровневый язык программирования (<highlighttext>Java</highlighttext>, С++, Kotlin)."
+    },
+    {
+        "name": "Middle Java Developer [DevX Platform, МТС Веб Сервисы]",
+        "vacancy_id": "124542330",
+        "salary": null,
+        "description": "Опыт программирования на <highlighttext>Java</highlighttext>/Kotlin 3+ лет. Понимание принципов ООП, паттернов проектирования. Опыт работы с REST-api. "
+    },
+    {
+        "name": "Java developer (проект финтех)",
+        "vacancy_id": "124537424",
+        "salary": null,
+        "description": "Высшее техническое образование в области ИТ, программирования, математики или смежных дисциплин. Знание <highlighttext>Java</highlighttext> Spring, JPA, JMS. Опыт работы с БД..."
+    },
+    {
+        "name": "Ведущий Java/Kotlin разработчик",
+        "vacancy_id": "124625254",
+        "salary": null,
+        "description": "Опыт коммерческой разработки backend на <highlighttext>Java</highlighttext>/Kotlin, Spring, Hibernate от 3-х лет. Знание Linux на базовом уровне. "
+    },
+    {
+        "name": "Middle Frontend-разработчик (React, Next.js)",
+        "vacancy_id": "123531918",
+        "salary": {
+            "from": 150000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Уверенные знания React, TypeScript, JavaScript. Умение работать с Next.JS v15 и его новым функционалом: fetch caching, server actions, PPR..."
+    },
+    {
+        "name": "Младший специалист по тестированию (QA manual (junior))",
+        "vacancy_id": "124277561",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "### **Будет плюсом (но не обязательно):**. - Опыт в автоматизации (Python/<highlighttext>Java</highlighttext>/JavaScript + Selenium, Playwright, Cypress). - Знание CI/CD (Jenkins..."
+    },
+    {
+        "name": "Менеджер проектов",
+        "vacancy_id": "124471214",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Понимание паттернов разработки и архитектуры приложений. Базовые знания программирования (желательно <highlighttext>Java</highlighttext> или других языков). Умение управлять приоритетами и командами. "
+    },
+    {
+        "name": "Java Developer",
+        "vacancy_id": "124526283",
+        "salary": null,
+        "description": "Не менее 4-5 лет работы с <highlighttext>Java</highlighttext> 8 и выше. Опыт работы с Kafka/Redis. Опыт работы над архитектурными..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124545178",
+        "salary": null,
+        "description": "Разработка на <highlighttext>java</highlighttext> от 5-ти лет (у нас 17 версия). Понимание принципов построения микросервисной архитектуры, практический опыт разработки микросервисов. "
+    },
+    {
+        "name": "Frontend-разработчик в Only (Next.js, React)",
+        "vacancy_id": "123019806",
+        "salary": {
+            "from": 140000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенные знания JavaScript (ES6+). Умение верстать с нуля адаптивные интерфейсы с поддержкой современных браузеров. Уверенные знания HTML, CSS..."
+    },
+    {
+        "name": "Middle QA Engineer",
+        "vacancy_id": "124393326",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Коммерческий опыт работы в ТЕСТИРОВАНИИ ОТ 3 ЛЕТ. Опыт формирования и актуализации сложной, детальной тестовой документации (План тестирования / Отчет о..."
+    },
+    {
+        "name": "Инженер-программист",
+        "vacancy_id": "124542137",
+        "salary": {
+            "from": 2500,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "description": "Высшее техническое образование в области информационных технологий. <highlighttext>Java</highlighttext> (Core, Mulrithreading, Stream API, др.). Высокий уровень Spring Framework (Core, Boot, Data..."
+    },
+    {
+        "name": "QA инженер auto",
+        "vacancy_id": "124571522",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "...одного языка): Python, или Bash, или JavaScript, или Groovy, или <highlighttext>Java</highlighttext>, или C#,. ∙ Опыт автоматизации тестирования: актуализация существующих автоматизированных тестов..."
+    },
+    {
+        "name": "Тестировщик / QA Engineer",
+        "vacancy_id": "123754650",
+        "salary": {
+            "from": null,
+            "to": 110000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы в тестировании от 2х лет (желательно в data-проектах). Понимание базовых принципов работы с данными: фильтрация, агрегация..."
+    },
+    {
+        "name": "IT Recruiter",
+        "vacancy_id": "124572452",
+        "salary": null,
+        "description": "Опыт в ИТ-рекрутинге от 1 года. Владение инструментами сорсинга. Опыт в проведении скрининг-интервью. Английский язык на уровне intermediate..."
+    },
+    {
+        "name": "Middle Kotlin Developer",
+        "vacancy_id": "124480596",
+        "salary": null,
+        "description": "Чем ты будешь рулить: Имеет продвинутые знания: Умение работать в команде, давать и принимать конструктивную обратную связь. Желание постоянно совершенствоваться..."
+    },
+    {
+        "name": "QA Engineer (фронтенд продукт)",
+        "vacancy_id": "123976108",
+        "salary": {
+            "from": 103500,
+            "to": 201760,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Навык писать простые запросы на SQL (select'ы). Высшее техническое образование. Знание синтаксиса одного ЯП (желательно <highlighttext>Java</highlighttext>) на уровне понимания..."
+    },
+    {
+        "name": "Android-разработчик Junior",
+        "vacancy_id": "124442483",
+        "salary": null,
+        "description": "Знание <highlighttext>Java</highlighttext> и Android SDK (26+). Kotlin желательно. Умение разбираться в чужом коде. Умение работы с системами контроля версий..."
+    },
+    {
+        "name": "Java разработчик",
+        "vacancy_id": "124496223",
+        "salary": null,
+        "description": "...в качестве <highlighttext>java</highlighttext> разработчика не менее 4 лет;Опыт работы в качестве <highlighttext>java</highlighttext> разработчика в банках. Уверенное владение <highlighttext>Java</highlighttext> версии..."
+    },
+    {
+        "name": "Android-разработчик",
+        "vacancy_id": "124559143",
+        "salary": null,
+        "description": "Коммерческий опыт разработки на Kotlin/<highlighttext>Java</highlighttext> от 3 лет. Знание Android SDK, Android Jetpack. Опыт работы с многопоточностью (Coroutines). "
+    },
+    {
+        "name": "Senior QA Engineer (Manual + basic Auto)",
+        "vacancy_id": "124581536",
+        "salary": null,
+        "description": "Опыт тестирования веб-приложений и api-сервисов от 6-ти лет. Уверенное владение DevTools. Умение работать с git, с БД..."
+    },
+    {
+        "name": "Java-разработчик (Middle)",
+        "vacancy_id": "124358128",
+        "salary": null,
+        "description": "Опыт промышленной разработки на <highlighttext>JAVA</highlighttext> от 3 лет. Знание Spring (Boot, Data JPA, Security, Cloud – будет плюсом), JPA и Hibernate..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123607949",
+        "salary": null,
+        "description": "Code Review: делитесь опытом и знаниями внутри команды. ️ Коммерческий опыт разработки на <highlighttext>Java</highlighttext> минимум два года. ️ Уверенное владение Spring/Spring..."
+    },
+    {
+        "name": "C#/.NET-разработчик",
+        "vacancy_id": "124424136",
+        "salary": null,
+        "description": "Понимание механизмов обеспечения транзакций в MS SQL, понимание уровней изоляции, видов блокировок. Знание <highlighttext>Java</highlighttext>. Опыт работы с Blazor, Docker и..."
+    },
+    {
+        "name": "Инженер по тестированию (QA Fullstack)",
+        "vacancy_id": "124511532",
+        "salary": null,
+        "description": "Опыт в составлении плана-тестирования и тест-анализ. Опыт в автоматизации (Kotlin\\<highlighttext>Java</highlighttext>). Опыт работы с REST API и брокером..."
+    },
+    {
+        "name": "Инженер по тестированию",
+        "vacancy_id": "124356200",
+        "salary": null,
+        "description": "Умение работать с системами контроля версий (Git). Опыт написания автотестов на <highlighttext>Java</highlighttext> желателен. Внимательность, ответственность и умение работать в команде."
+    },
+    {
+        "name": "Java разработчик (Senior)",
+        "vacancy_id": "124627365",
+        "salary": {
+            "from": 450000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Знаешь классические алгоритмы и структуры данных. - Любишь изучать и применять новые технологии. - Читаешь техническую документацию на английском."
+    },
+    {
+        "name": "QA тестировщик (Manual)",
+        "vacancy_id": "124330363",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Будет плюсом. Опыт автоматизации тестирования на Python или на <highlighttext>Java</highlighttext>. Знание ООП и паттернов разработки автотестов. Опыт интеграции автотестов в..."
+    },
+    {
+        "name": "Java-разработчик (релокация в Бишкек)",
+        "vacancy_id": "124371241",
+        "salary": null,
+        "description": "Опыт коммерческой разработки: от 2 лет. Отличное знание <highlighttext>Java</highlighttext> 11+, Spring Framework, Hibernate. Знание ООП, структур данных, алгоритмов. "
+    },
+    {
+        "name": "Системный аналитик",
+        "vacancy_id": "123880885",
+        "salary": null,
+        "description": "Опыт работы на должности системного аналитика от 3х лет. Владение основами системного анализа, системное мышление. Знание нотаций и инструментов..."
+    },
+    {
+        "name": "Java-разработчик middle",
+        "vacancy_id": "124594842",
+        "salary": null,
+        "description": "Опыт работы на коммерческих проекта от 3 лет. Высшее техническое образование. Уверенное владение: <highlighttext>Java</highlighttext> SE, Spring Boot (Core, MVC, Data..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124358345",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> от 3-х лет. Опыт работы с <highlighttext>Java</highlighttext> 17, Spring Boot. Знание Kafka, Redis, NiFi, Zookeeper..."
+    },
+    {
+        "name": "Java/Kotlin Developer",
+        "vacancy_id": "124511828",
+        "salary": null,
+        "description": "Hibernate. Имеете опыт разработки на <highlighttext>Java</highlighttext>, опыт проектирования и оптимизации работы с БД. Понимаете банковские бизнес-процессы, приветствуется опыт развития..."
+    },
+    {
+        "name": "Java-разработчик (Middle)",
+        "vacancy_id": "124533169",
+        "salary": null,
+        "description": "Высшее техническое образование. Опыт работы с фреймворком Spring. Опыт работы с базами данных (PostgreSQL, Redis, ElasticSearch). Опыт работы с очередями..."
+    },
+    {
+        "name": "Архитектор ML/AI-решений для облачной платформы",
+        "vacancy_id": "122577941",
+        "salary": null,
+        "description": "Опыт в качестве разработчика на актуальных языках программирования: Go, Rust, Python, C/C++, <highlighttext>Java</highlighttext>, Ruby, JS/TS. Понимание предметной области..."
+    },
+    {
+        "name": "Java разработчик (эксплуатация)",
+        "vacancy_id": "124469102",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> от 3-х лет. - Опыт на Python. - Уверенное знание Spring Framework (Spring Boot, Spring MVC, Spring..."
+    },
+    {
+        "name": "Robotics Software Engineer",
+        "vacancy_id": "124580689",
+        "salary": {
+            "from": null,
+            "to": 500000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Владение следующим стеком технологий: Языки: C++, Python, <highlighttext>Java</highlighttext>. Фреймворки: ROS/ROS 2, OpenCV, PCL, TensorFlow/PyTorch, OpenAI Gym, Stable-Baselines..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124341656",
+        "salary": {
+            "from": null,
+            "to": 230000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Spring Framework (Core, MVC, Data, Batch, Cloud). Знание Spring Boot 2.0 и выше. Опыт работы с JPA, Hibernate. "
+    },
+    {
+        "name": "Java разработчик",
+        "vacancy_id": "123886209",
+        "salary": null,
+        "description": "Необходимые навыки: Опыт коммерческой разработки на <highlighttext>Java</highlighttext> не менее 3-х лет. Умение разбираться в чужом коде, писать чистый и..."
+    },
+    {
+        "name": "Senior Java-разработчик (проект сроком на 3 месяца)",
+        "vacancy_id": "124595427",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Глубокий опыт с: Spring (Boot, Data, Security), Hibernate, Gradle, JMS, JAX-WS. — Опыт в Agile, Scrum, DevOps и каскадных методологиях. "
+    },
+    {
+        "name": "Технический директор (CTO)",
+        "vacancy_id": "124452360",
+        "salary": null,
+        "description": "Знание языков программирования, используемых для разработки мобильных приложений, включая Swift, Kotlin и <highlighttext>Java</highlighttext>. Опыт работы с облачными технологиями и управления..."
+    },
+    {
+        "name": "Middle Java-разработчик",
+        "vacancy_id": "124080578",
+        "salary": null,
+        "description": "Умение писать модульный, структурированный и легко читаемый код. Знание <highlighttext>Java</highlighttext>-core, хорошее понимание принципов ООП. Знание и опыт работы с..."
+    },
+    {
+        "name": "Тестировщик",
+        "vacancy_id": "123984072",
+        "salary": null,
+        "description": "Опыт тестирования веб-приложений и мобильных приложений (Android/iOS) от 1 года. Знание методологий тестирования (функциональное, регрессионное, интеграционное, UI/UX..."
+    },
+    {
+        "name": "Senior Java Developer (Kotlin)",
+        "vacancy_id": "124583778",
+        "salary": {
+            "from": 400000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Что нужно знать и уметь:). Отличные знания <highlighttext>Java</highlighttext> 11+. Знания Spring / Spring Boot / Spring Cloud. Теплые отношения с DevOps..."
+    },
+    {
+        "name": "Middle Java Developer",
+        "vacancy_id": "123468523",
+        "salary": null,
+        "description": "Опыт разработки чат-ботов на <highlighttext>Java</highlighttext>. Опыт работы с API и интеграцией сторонних сервисов. Поддержка и обновление документации. "
+    },
+    {
+        "name": "Java Developer (Junior)",
+        "vacancy_id": "124441210",
+        "salary": null,
+        "description": "Strong knowledge of <highlighttext>Java</highlighttext> 17+. Robust familiarity with OOP, SOLID. Experience of writing RESTful services. Experience with Spring Boot..."
+    },
+    {
+        "name": "Системный аналитик",
+        "vacancy_id": "124174082",
+        "salary": null,
+        "description": "Понимание принципов работы web и мобильных приложений (желательно Angular/Ionic). Базовое понимание архитектуры <highlighttext>Java</highlighttext> + Spring Boot + Hibernate приложений. "
+    },
+    {
+        "name": "Разработчик - стажер",
+        "vacancy_id": "124184885",
+        "salary": {
+            "from": null,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Навыки программирования <highlighttext>Java</highlighttext>, разработки и поддержки ПО. Навыки настройки и администрирования JIRA, а так же знания SQL, linux, git, CI..."
+    },
+    {
+        "name": "Тестировщик ПО",
+        "vacancy_id": "122450017",
+        "salary": {
+            "from": 160000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы от 2 лет. Знакомство rest/soap api. Опыт работы с elastic/kibana, rabbitMQ, PostgreSQL, Jenkins, Postman. "
+    },
+    {
+        "name": "QA Engineer",
+        "vacancy_id": "123596824",
+        "salary": null,
+        "description": "Будет плюсом: Опыт написания автоматизированных тестов на одном из языков: <highlighttext>Java</highlighttext>, Python, JavaScript/TypeScript. Знание фреймворков автоматизации (например, TestNG, JUnit..."
+    },
+    {
+        "name": "Middle Java Developer",
+        "vacancy_id": "123838569",
+        "salary": {
+            "from": null,
+            "to": 230000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы на <highlighttext>Java</highlighttext>/Spring от 3-х лет. Опыт в сфере финтех обязателен! Глубокое знание <highlighttext>Java</highlighttext> core. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123886712",
+        "salary": {
+            "from": 200000,
+            "to": 240000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Уверенное знание <highlighttext>Java</highlighttext> (<highlighttext>Java</highlighttext> SE 8+, Spring Framework (MVC, Transactions), Junit). Умение работать с фреймворками Hibernate, Spring. "
+    },
+    {
+        "name": "Старший инженер по тестированию",
+        "vacancy_id": "124460192",
+        "salary": null,
+        "description": "...локального развёртывания микросервисов. Опыт использования Wiremock. Опыт использования фреймворка Cucumber и нотации Gherkin. Умение читать код на языке программирования <highlighttext>Java</highlighttext>."
+    },
+    {
+        "name": "DevOps engineer",
+        "vacancy_id": "124564929",
+        "salary": null,
+        "description": "Опыт администрирования k8s на уровне namespace. Опыт администрирования и сопровождения <highlighttext>Java</highlighttext> приложений(tuning, troubleshooting). Навыки написания скриптов на..."
+    },
+    {
+        "name": "Стажер фронтенд/бэкенд разработчик в стартап проект",
+        "vacancy_id": "124344036",
+        "salary": null,
+        "description": "По меньшей мере пройденные или самостоятельно изученные курсы по разработке."
+    },
+    {
+        "name": "QA Engineer/Тестировщик (Middle,Senior)",
+        "vacancy_id": "123880989",
+        "salary": null,
+        "description": "Имеешь опыт в тестировании от 3х лет (Web/Mobile/Desktop). Знаешь теорию тестирования и техники тест-дизайна. "
+    },
+    {
+        "name": "Java-разработчик (стажер | junior)",
+        "vacancy_id": "124386064",
+        "salary": {
+            "from": 80000,
+            "to": 155000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Понимание принципов ООП, понимание алгоритмов и структур данных, знание <highlighttext>Java</highlighttext> Core. Обязательное знание основ <highlighttext>Java</highlighttext> EE (Servlets, jsp). "
+    },
+    {
+        "name": "Стажер-разработчик С#",
+        "vacancy_id": "124489126",
+        "salary": null,
+        "description": "Участие в проектировании приложений. Понимание микросервисной архитектуры. Умение писать unit-тесты. Практический опыт работы с <highlighttext>Java</highlighttext>/Kotlin. Опыт работы с..."
+    },
+    {
+        "name": "Бэкэнд разработчик",
+        "vacancy_id": "122987466",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "опыт работы от 3-х лет. Стек необходимого ПО: <highlighttext>Java</highlighttext> reactive, spring WebFlux, camunda, postgresql, elasticsearch, kafka. Понимание:API интеграций..."
+    },
+    {
+        "name": "Java-разработчик (Junior+)",
+        "vacancy_id": "124244460",
+        "salary": null,
+        "description": "Коммерческий опыт программирования на <highlighttext>java</highlighttext> 17/21, spring framework от 2х лет. Базовое понимание kafka, Docker, maven, liquibase, grpc..."
+    },
+    {
+        "name": "Java-разработчик (Проект ИЖС, Домен B2B)",
+        "vacancy_id": "124460519",
+        "salary": null,
+        "description": "Значительный опыт разработки систем с микросервисной архитектурой. Знание <highlighttext>Java</highlighttext>, Spring Core, Spring Data, Spring Boot, Spring Cloud. Опыт работы с..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123612782",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>java</highlighttext> от 3 лет. Опыт работы с jpa и postgresql/jdbc. Опыт работы со kafka, spring boot. "
+    },
+    {
+        "name": "Java разработчик Middle+",
+        "vacancy_id": "123435234",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> от 3-х лет. Понимание ООП, паттернов проектирования. Опыт разработки REST API, понимание протоколов HTTP/HTTPS. "
+    },
+    {
+        "name": "Junior / Pre-Middle Java Developer",
+        "vacancy_id": "124331111",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> от 1 года, знание особенностей <highlighttext>Java</highlighttext> 8-11 версий. Хорошее знание и понимание ООП, стандартных алгоритмов..."
+    },
+    {
+        "name": "Ученик Java-разработчик",
+        "vacancy_id": "124501885",
+        "salary": {
+            "from": 40230,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Паттерны проектирования распределенных систем: SOLID, Dependency injections. !! На старте требуется понимание основ программирования, желание постоянного развития и изучения новых технологий."
+    },
+    {
+        "name": "Middle Java Developer",
+        "vacancy_id": "123395507",
+        "salary": null,
+        "description": "Отличные знания <highlighttext>Java</highlighttext> (8+). Знание Spring и Spring Boot. Понимание зачем нужны Docker и Kubernetes. Опыт работы с Postgres. "
+    },
+    {
+        "name": "СТО (Розничная торговля)",
+        "vacancy_id": "123905624",
+        "salary": {
+            "from": 460000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Глубокое понимание языков программирования 1С, Python, <highlighttext>Java</highlighttext>. Успешный опыт настройки, технического обслуживания и сопровождения: 1С (УТ, ЗУП, БУХ..."
+    },
+    {
+        "name": "Co-Founder (кофаундер) - Team Lead / CTO (Java, React) USA startup",
+        "vacancy_id": "124406194",
+        "salary": {
+            "from": 1000000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт Team Lead 5+ лет, общий опыт разработки — 7+ лет. <highlighttext>Java</highlighttext> Spring Boot и React — от 5 лет. "
+    },
+    {
+        "name": "Специалист по тестированию/QA",
+        "vacancy_id": "124121741",
+        "salary": null,
+        "description": "Знание и понимание базовых основ любого из языков программирования (<highlighttext>Java</highlighttext>, Kotlin, JS, Python). Умение работать в одной из IDE (IntelliJ..."
+    },
+    {
+        "name": "Java Developer Middle/Senior",
+        "vacancy_id": "124498258",
+        "salary": null,
+        "description": "Опыт работы с spring boot, hibernate, maven, от 4 лет. Опыт работы с реляционными базами данных, предпочтительно postgresql. "
+    },
+    {
+        "name": "Технический писатель",
+        "vacancy_id": "124585102",
+        "salary": null,
+        "description": "Опыт работы техническим писателем от 2.5х лет. Опыт работы с технической документацией в IT: знание процессов разработки документации..."
+    },
+    {
+        "name": "QA тестировщик (Manual)",
+        "vacancy_id": "123468909",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Будет плюсом. Опыт автоматизации тестирования на Python или на <highlighttext>Java</highlighttext>. Знание ООП и паттернов разработки автотестов. Опыт интеграции автотестов в..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124262337",
+        "salary": {
+            "from": 500,
+            "to": 1000,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Профессионализм. Знание <highlighttext>Java</highlighttext>, ООП, Hibernate, ORM, Spring Framework, Spring boot, Spring Security, Spring Data JPA, Spring Boot JDBC, Spring MVC..."
+    },
+    {
+        "name": "Frontend React-разработчик",
+        "vacancy_id": "124016212",
+        "salary": {
+            "from": 180000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт написания unit-тестов. JavaScript. TypeScript. React. Webpack/Esbuild. <highlighttext>Java</highlighttext>. Docker. OpenShift. PostgreSQL. Опыт работы с отличными от React frontend..."
+    },
+    {
+        "name": "C#/.NET-разработчик",
+        "vacancy_id": "124398482",
+        "salary": {
+            "from": 30000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Знание SQL, опыт работы с реляционными базами данных. Приветствуется знание ГИС, владение другими языками программирования (<highlighttext>Java</highlighttext>, Python), понимание основ микросервисной..."
+    },
+    {
+        "name": "Middle Java developer",
+        "vacancy_id": "124509697",
+        "salary": null,
+        "description": "2–4 года опыта коммерческой разработки на <highlighttext>Java</highlighttext> (<highlighttext>Java</highlighttext> 11 и выше). Уверенное знание Spring (Boot, Data, Security). "
+    },
+    {
+        "name": "Тестировщик ПО (стажер)",
+        "vacancy_id": "124471198",
+        "salary": null,
+        "description": "Стажировка очного формата. Приветствуются навыки: SQL, Python, Selenium, Cypress (<highlighttext>Java</highlighttext> Script), Jira, Confluence, Postman, Devtools. Стажировке уделить 430 часов (3..."
+    },
+    {
+        "name": "Java Developer",
+        "vacancy_id": "123587855",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> EE, <highlighttext>Java</highlighttext> SE, <highlighttext>Java</highlighttext> 8. Знание Spring (Data/Web/Boot/Security). Знание Hibernate, Groovy, Git, Gradle..."
+    },
+    {
+        "name": "Java разработчик Middle + / Senior",
+        "vacancy_id": "124390524",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы в строительной или банковской сфере в качестве Senior <highlighttext>Java</highlighttext> разработчика с непрерывным стажем от 2-х лет. "
+    },
+    {
+        "name": "Менеджер по кадровому делопроизводству/начислению заработной платы",
+        "vacancy_id": "124136349",
+        "salary": null,
+        "description": "Имеет оконченное высшее образование (желательно в сфере управления персоналом, экономики труда или юриспруденции). Обладает опытом работы от 2 года в..."
+    },
+    {
+        "name": "Java developer",
+        "vacancy_id": "124337325",
+        "salary": null,
+        "description": "Знание <highlighttext>Java</highlighttext>(11+). Опыт разработки REST API. Знание Spring. Умение писать Unit-тесты и знание для чего они нужны..."
+    },
+    {
+        "name": "Java разработчик / Java Developer",
+        "vacancy_id": "124222857",
+        "salary": {
+            "from": 155000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Базовое понимание архитектуры клиент-серверных приложений. - Знание основных принципов ООП и паттернов проектирования. - Опыт работы с REST API. - "
+    },
+    {
+        "name": "Java-разработчик (middle)",
+        "vacancy_id": "124173953",
+        "salary": null,
+        "description": "Разрабатывает на <highlighttext>Java</highlighttext> от 3-х лет. Имеет опыт работы с реляционными базами данных, знает и умеет SQL, PL/SQL. "
+    },
+    {
+        "name": "Разработчик сайта",
+        "vacancy_id": "124530432",
+        "salary": null,
+        "description": "Уверенные знания PHP 8.3, Laravel 11. Опыт работы с HTML, CSS, JavaScript. Навыки работы с API-интеграциями. "
+    },
+    {
+        "name": "Системный аналитик",
+        "vacancy_id": "122714100",
+        "salary": null,
+        "description": "Опыт работы с инструментами Postman, Figma, Drawio. Базовые знания о <highlighttext>Java</highlighttext> EE, Spring. Опыт работы с представлениями, функциями, индексами, хранимыми..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "vacancy_id": "123516027",
+        "salary": null,
+        "description": "Будет большим плюсом: — Опыт с нативной мобильной разработкой (Kotlin/<highlighttext>Java</highlighttext>). — Знание серверных технологий (Node.js, Express) для понимания full-stack процессов. — "
+    },
+    {
+        "name": "Владелец продукта / Product owner",
+        "vacancy_id": "124439915",
+        "salary": null,
+        "description": "Имеешь опыт работы Product Owner или в аналогичной роли не менее 3 лет, предпочтительно в области коммерции. Обладаешь глубоким пониманием..."
+    },
+    {
+        "name": "Аналитик данных / Инженер данных/ Data Scientist / Data Analyst / Data engineer",
+        "vacancy_id": "124561125",
+        "salary": null,
+        "description": "...с технологиями: SQL, pgSQL, Python (+Pandas, psycopg2, multiprocessing, PIL), Airflow, Cron, Flask, FTP, Linux (+bash, ssh), Kafka, ClickHouse, <highlighttext>Java</highlighttext>."
+    },
+    {
+        "name": "Senior Java Developer",
+        "vacancy_id": "124601065",
+        "salary": null,
+        "description": "Знание Kubernetes и базовых DevOps-подходов. Опыт миграции с <highlighttext>Java</highlighttext> на Kotlin или наоборот. Мы ценим архитектурное мышление, техническую эрудицию..."
+    },
+    {
+        "name": "Java Developer",
+        "vacancy_id": "124140118",
+        "salary": {
+            "from": 1200,
+            "to": 2700,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Уверенное знание и владение языком программирования <highlighttext>Java</highlighttext>. Опыт работы с облачными платформами и технологиями. Опыт работы с Jira или похожей..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123496708",
+        "salary": null,
+        "description": "Опыт коммерческой разработки <highlighttext>Java</highlighttext>/Spring от 3 лет. Опыт создания сервисов с нуля. Опыт работы с брокерами сообщений. "
+    },
+    {
+        "name": "System Analyst",
+        "vacancy_id": "123844581",
+        "salary": null,
+        "description": "...с DWH направлением. Опыт работы с нередяционными БД. Опыт работы с SOAP. ESB, gRPC. Базовые навыки программирования (Python, <highlighttext>Java</highlighttext>, C#)."
+    },
+    {
+        "name": "Java Backend Engineer / Java - разработчик (middle / middle+)",
+        "vacancy_id": "124403846",
+        "salary": null,
+        "description": "Опыт работы со сборщиком Gradle от 1+ года. Уверенные знания <highlighttext>Java</highlighttext> Core, Collections, StreamAPI, Concurrent. Уверенные знания Spring Framework..."
+    },
+    {
+        "name": "Android-разработчик(iGaming)",
+        "vacancy_id": "124586830",
+        "salary": null,
+        "description": "1+ лет опыта в коммерческой Android-разработке. Знание <highlighttext>Java</highlighttext>/Kotlin. Уверенная работа с REST API, архитектурой и async-обработкой. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123917695",
+        "salary": null,
+        "description": "Знание основных алгоритмов и структур данных. Уверенное знание <highlighttext>Java</highlighttext> 17 + (Core, Collections). Опыт использования Spring Framework, Hibernate ORM, JDBC..."
+    },
+    {
+        "name": "Middle Java Developer",
+        "vacancy_id": "123941276",
+        "salary": {
+            "from": 3000,
+            "to": 5000,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "REST, HTTP, Docker, Docker Compose, Linux, Git, Jenkins, Grafana. Опыт коммерческой разработки на <highlighttext>Java</highlighttext> от 2 лет. Spring Boot, Hibernate..."
+    },
+    {
+        "name": "Chief Technology Officer (CTO)",
+        "vacancy_id": "124550141",
+        "salary": null,
+        "description": "Опыт работы с Go, C# (.NET), <highlighttext>Java</highlighttext> (Spring), Python — на уровне оценки решений, ревью архитектуры и интеграций. Понимание фронтенд-стека..."
+    },
+    {
+        "name": "Senior Системный аналитик (проект сроком на 3 месяца)",
+        "vacancy_id": "124362410",
+        "salary": {
+            "from": null,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "по настоящее время на проектах по разработке и/или модификации и/или внедрению систем с использованием инструментов и технологий <highlighttext>Java</highlighttext>..."
+    },
+    {
+        "name": "DevOps-инженер",
+        "vacancy_id": "124579507",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт запуска и администрирования <highlighttext>java</highlighttext> приложений. Опыт администрирования Jira, Confluence. Опыт программирования на одном из языков программирования (С#, <highlighttext>Java</highlighttext>). "
+    },
+    {
+        "name": "Manual QA инженер (Senior)",
+        "vacancy_id": "123047939",
+        "salary": null,
+        "description": "Опыт тестирования 1С. Опыт автоматизации или поддержки автотестов на <highlighttext>JAVA</highlighttext>. Опыт работы в составе в команды интегратора с непосредственным..."
+    },
+    {
+        "name": "Младший разработчик",
+        "vacancy_id": "123256918",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Понимания принципов объектно-ориентированного программирования, знание одного или нескольких языков высокого уровня (C++, <highlighttext>java</highlighttext>, pascal). Ответственность, самостоятельность, инициативность. "
+    },
+    {
+        "name": "Ведущий менеджер по развитию ИТ",
+        "vacancy_id": "124624185",
+        "salary": null,
+        "description": "Пакет Microsoft Office: Word, Excel, Outlook, PowerPoint. SAP ERP. Знание и практический опыт администрирования Linux-систем. Понимание принципов проектирования архитектуры..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123995843",
+        "salary": null,
+        "description": "Опыт работы в качестве <highlighttext>Java</highlighttext>-разработчика (если ты уверенно знаешь <highlighttext>Java</highlighttext> можно и без опыта, но будь готов к тестовому..."
+    },
+    {
+        "name": "Senior Frontend-разработчик (React)",
+        "vacancy_id": "124316612",
+        "salary": null,
+        "description": "Диплом о высшем образовании в технической сфере. Бэкграунд работы с frontend от 3 до 5 лет. Владение стеком технологий JavaScript..."
+    },
+    {
+        "name": "C# разработчик",
+        "vacancy_id": "124433485",
+        "salary": null,
+        "description": "СУБД: SQL, PostgreSQL. По окончанию основного проекта возможен переход на <highlighttext>Java</highlighttext>. Желательно знание Clickhouse, Elasticsearch/Opensearch. Умение работать с Git. "
+    },
+    {
+        "name": "Системный аналитик (удаленно)",
+        "vacancy_id": "123981619",
+        "salary": {
+            "from": 5000,
+            "to": 7000,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Опытного системного аналитика (от 3 лет в FinTech, банковской сфере, платежных системах или сложных IT-продуктах);. С пониманием того, как..."
+    },
+    {
+        "name": "Automation QA Engineer",
+        "vacancy_id": "124545987",
+        "salary": {
+            "from": 120000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание одного из языков программирования Python / <highlighttext>Java</highlighttext> / C# на уровне достаточном для автоматизации тестов. Опыт работы с REST API, HTTP..."
+    },
+    {
+        "name": "Middle QA Manual Engineer",
+        "vacancy_id": "124096991",
+        "salary": null,
+        "description": "Ручное тестирование веб-приложений от 2 лет в проектах с микросервисной архитектурой. Знание методик функционального, регрессионного, интеграционного тестирования, умение оформлять..."
+    },
+    {
+        "name": "Инженер-конструктор / Отдел прочности",
+        "vacancy_id": "124603642",
+        "salary": null,
+        "description": "Знание конструкции планера ВС. Знание методов расчета на прочность композиционных материалов. Знание методов экспериментальных исследований композиционных материалов. Знание отраслевых стандартов..."
+    },
+    {
+        "name": "Cистемный аналитик",
+        "vacancy_id": "124020841",
+        "salary": null,
+        "description": "Опыт работы в роли системного аналитика от 2 лет на проектах разработки/модификации/внедрения систем с использованием <highlighttext>Java</highlighttext>. "
+    },
+    {
+        "name": "Начинающий специалист по Java разработке (стажер)",
+        "vacancy_id": "123522816",
+        "salary": null,
+        "description": "От вас мы ожидаем: Оконченное высшее образование. Уверенное знание <highlighttext>Java</highlighttext>/<highlighttext>Java</highlighttext> Core. Готовность работать полный рабочий день 5/2 (после окончания..."
+    },
+    {
+        "name": "Java разработчик в IT-компанию (Middle+, Senior)",
+        "vacancy_id": "122566752",
+        "salary": {
+            "from": 230000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Коммерческая разработка на <highlighttext>Java</highlighttext> от 3-х лет. - Опыт работы со Spring (Boot, Core, Web, Data, Test). - Опыт с реляционными..."
+    },
+    {
+        "name": "Тестировщик ручной на интеграцию с РЖД (Manual QA engineer)",
+        "vacancy_id": "123507974",
+        "salary": null,
+        "description": "Опыт ручного тестирования от 2,5 лет. Понимание теории тестирования, знание современных техник и методологий. Опыт проведения функционального и регрессионного..."
+    },
+    {
+        "name": "Fullstack - тестировщик (СПР)",
+        "vacancy_id": "124622280",
+        "salary": null,
+        "description": "Имеете опыт в авто-тестировании Back-систем от 2х лет. Имеете опыт разработки и поддержки модели тестирования доработок и..."
+    },
+    {
+        "name": "QA Engineer",
+        "vacancy_id": "120947925",
+        "salary": null,
+        "description": "Понимаете принципы работы СУБД и знаете SQL. Разбираетесь в Gitlab, Docker. *плюсом будет: умение читать код на Python, <highlighttext>Java</highlighttext>."
+    },
+    {
+        "name": "Senior Java-разработчик",
+        "vacancy_id": "124558837",
+        "salary": null,
+        "description": "...<highlighttext>Java</highlighttext> от 6 лет. Понимание принципов и опыт построения различных архитектурных решений ПО (монолит, модульная, микросервисная). Опыт разработки на <highlighttext>Java</highlighttext>..."
+    },
+    {
+        "name": "Системный аналитик в МФО",
+        "vacancy_id": "124597332",
+        "salary": {
+            "from": 200000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с API (REST/SOAP), SQL обязателен. Знания основ <highlighttext>Java</highlighttext> и React. Навыки моделирования (UML, BPMN — Visio, Draw.io, Bizagi..."
+    },
+    {
+        "name": "Senior Java/Kotlin backend developer",
+        "vacancy_id": "124620453",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext>/Kotlin от 3х лет. Опыт работы с PostgreSQL. Опыт с высоконагруженными приложениями. "
+    },
+    {
+        "name": "NodeJs / Backend-разработчик (начинающий)",
+        "vacancy_id": "124522811",
+        "salary": {
+            "from": 45000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "1. Тестовый отбор — выполнение кандидатами задач на сообразительность и проверку навыков программирования (любой из языков программирования). Успешно прошедшие тестовые задания..."
+    },
+    {
+        "name": "IT-специалист/программист",
+        "vacancy_id": "124506385",
+        "salary": {
+            "from": 87000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт тестирования и отладки программного обеспечения. Владение базовыми навыками программирования (Python, PHP, <highlighttext>Java</highlighttext>), умение работать с серверами. Самостоятельность, ответственность и..."
+    },
+    {
+        "name": "Java (Spring, Kotlin) - разработчик (Финтех)",
+        "vacancy_id": "124172493",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> - от 4х лет. - Опыт микросервисной разработки на Spring Framework (Cloud, Boot, AOP, Security, etc..."
+    },
+    {
+        "name": "Junior Software Developer/Начинающий программист",
+        "vacancy_id": "124379590",
+        "salary": {
+            "from": null,
+            "to": 1000,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Spoken English B1+. Understanding of OOP. Basic knowledge of HTML, CSS, JavaScript. Desire to learn new Technologies. "
+    },
+    {
+        "name": "Тестировщик ПО(Junior-Middle QA)",
+        "vacancy_id": "123602589",
+        "salary": {
+            "from": 80000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с DEVtools. - Основы автоматизации (знание Python/JavaScript/<highlighttext>Java</highlighttext> на уровне чтения кода — будет преимуществом). Личные качества: - Внимательность к..."
+    },
+    {
+        "name": "Golang-разработчик",
+        "vacancy_id": "124534134",
+        "salary": null,
+        "description": "Вы знаете другие высокоуровневые языки программирования: <highlighttext>Java</highlighttext>, C/C++. Вы знакомы с устройством баз данных (Greenplum, Postgresql и тд). "
+    },
+    {
+        "name": "Manual QA Engineer",
+        "vacancy_id": "123666689",
+        "salary": null,
+        "description": "Высшее техническое образование. Знание SQL на уровне написания простых запросов (SELECT, INSERT, UPDATE). Опыт тестирования API (Postman, Insomnia и пр.). "
+    },
+    {
+        "name": "QA Engineer (middle)",
+        "vacancy_id": "124216894",
+        "salary": {
+            "from": 130000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Готовность к инновациям и постоянному профессиональному росту. Ответственность за итоговое качество продукта и готовность принимать решения. Желание развиваться до Fullstack..."
+    },
+    {
+        "name": "Веб-разработчик",
+        "vacancy_id": "124526959",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Владение и опыт управления базой данных, php, phpMyAdmin, <highlighttext>Java</highlighttext> script, sql. - Экспертное владение CSS3, HTML5. - Знание Photoshop достаточное..."
+    },
+    {
+        "name": "Веб-программист",
+        "vacancy_id": "124393277",
+        "salary": null,
+        "description": "Asp.Net, React, C#, JavaScript, Visual Studio, HTML, CSS, MS SQL. Умение разбираться в чужом коде. Исполнительность, инициативность."
+    },
+    {
+        "name": "Backend Developer (Java/Kotlin)",
+        "vacancy_id": "124376429",
+        "salary": null,
+        "description": "Более 3 лет опыта коммерческой разработки в Kotlin. Опыт работы с платформой Spring Framework. Опыт разработки и интеграции платежных решений..."
+    },
+    {
+        "name": "QA-специалист / Тестировщик ПО (Гибридный формат)",
+        "vacancy_id": "124341687",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы с DEVtools. Основы автоматизации (знание Python/JavaScript/<highlighttext>Java</highlighttext> на уровне чтения кода — будет преимуществом). Личные качества: Внимательность к..."
+    },
+    {
+        "name": "Java Developer (middle)",
+        "vacancy_id": "124471161",
+        "salary": {
+            "from": 100000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Владение принципами ООП и SOLID и умение их применять. Уверенное знание <highlighttext>Java</highlighttext> 17+, опыт промышленной разработки не менее 3..."
+    },
+    {
+        "name": "Проектный менеджер/project manager",
+        "vacancy_id": "124450283",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Adinadin — студия с экспертизой в технологиях AI, ML и DL. — Успешный опыт управления проектами по созданию сайтов или мобильных приложений..."
+    },
+    {
+        "name": "Директор по информационным технологиям (CIO)",
+        "vacancy_id": "123462789",
+        "salary": null,
+        "description": "Оценка и внедрение новых систем и инфраструктуры для обеспечения технологического превосходства. Сильный бэкграунд в разработке (<highlighttext>java</highlighttext>/kotlin). Опыт разработки высоконагруженных..."
+    },
+    {
+        "name": "Тестировщик-автоматизатор",
+        "vacancy_id": "124607708",
+        "salary": null,
+        "description": "Опыт работы в роли инженера автоматизированного тестирования от 3-х лет. Обязательный опыт тестирования микросервисного back-end (API, БД и..."
+    },
+    {
+        "name": "Java-Разработчик",
+        "vacancy_id": "117878777",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт разработки на <highlighttext>java</highlighttext> 17 от 3 лет. Опыт работы с jpa и postgresql/jdbc. Опыт работы со kafka, quartz..."
+    },
+    {
+        "name": "Delivery manager - Менеджер по разработке и внедрению",
+        "vacancy_id": "124463346",
+        "salary": null,
+        "description": "Имеешь коммерческий опыт управления командами разработки и внедрения от 3 лет. Знаешь теорию продуктовой разработки. Знаешь гибкие формы управления продуктами..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124500524",
+        "salary": null,
+        "description": "Опыт работы в области разработки программного обеспечения. Опыт работы с Spring Framework. Отличное понимание принципов разработки RESTful API и микросервисной..."
+    },
+    {
+        "name": "Risk JAVA Technologist (Spain, Barcelona)",
+        "vacancy_id": "124575116",
+        "salary": {
+            "from": 3000,
+            "to": 4000,
+            "currency": "EUR",
+            "gross": false
+        },
+        "description": "...<highlighttext>Java</highlighttext> development. - Proficient in SQL (complex queries, optimization, and joins). - Team player. - Intermediate and higher English. Knowledge / Abilities: - Stack: <highlighttext>Java</highlighttext>..."
+    },
+    {
+        "name": "Ручной тестировщик (Senior)",
+        "vacancy_id": "124281941",
+        "salary": null,
+        "description": "...с jenkins\\teamcity\\иной инструмент. Приветствуется: опыт ведения демо\\ПСИ для бизнес-заказчиков, опыт работы в ДБО. Базовые знания <highlighttext>Java</highlighttext>."
+    },
+    {
+        "name": "Frontend-разработчик (junior)",
+        "vacancy_id": "123665122",
+        "salary": {
+            "from": null,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "...так и в гибких методологиях (Agile и/или DevOps и/или Scrum) разработки, а также разработки на <highlighttext>Java</highlighttext> 8, Spring."
+    },
+    {
+        "name": ".NET Developer",
+        "vacancy_id": "124599993",
+        "salary": {
+            "from": 2000,
+            "to": 3000,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Experience in integration with payment systems, trading platforms. Experience working in the financial industry. Experience working with PostgreSQL and MySQL. "
+    },
+    {
+        "name": "Системный аналитик",
+        "vacancy_id": "124358340",
+        "salary": null,
+        "description": "Высшее техническое образование, предпочтение специальностям из области ИТ, Информационной безопасности, математики. Знания SQL (СУБД Oracle, MS SQL Server,) приветствуются. "
+    },
+    {
+        "name": "Разработчик ПО",
+        "vacancy_id": "124501019",
+        "salary": {
+            "from": 110000,
+            "to": 570000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "1. Android-разработчик. Навыки и требования: Знание <highlighttext>Java</highlighttext> и/или Kotlin. Понимание верстки на XML (Jetpack Compose приветствуется, но не..."
+    },
+    {
+        "name": "Backend-разработчик Go",
+        "vacancy_id": "124380506",
+        "salary": {
+            "from": 200000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Коммерческий опыт в backend-разработке от 3 лет (на любом языке: Go, Node.js, C#, <highlighttext>Java</highlighttext>, C++). Коммерческий опыт разработки на..."
+    },
+    {
+        "name": "Middle Java Developer",
+        "vacancy_id": "117391993",
+        "salary": {
+            "from": null,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с <highlighttext>java</highlighttext> от 3 лет. Уверенные знания основных современных концепций и принципов разработки на платформе <highlighttext>Java</highlighttext>. "
+    },
+    {
+        "name": "Java-разработчик (junior+/middle)",
+        "vacancy_id": "123600318",
+        "salary": null,
+        "description": "Опыт программирования на <highlighttext>Java</highlighttext> от 2 лет. Знание SQL и принципов работы с БД. Понимание принципов ООП. Умение разбираться в..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "122874414",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенное знание <highlighttext>Java</highlighttext> SE. Минимальная алгоритмическая подготовка. ​Высшее образование в области Computer Science. Опыт разработки сервисов и микросервисов. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124138578",
+        "salary": null,
+        "description": "Опыт работы с <highlighttext>Java</highlighttext> более 4 лет. Знание Spring, Spring Boot, Kafka, MongoDB, Docker, Kubernetes, Linux. Глубокое понимание микросервисной архитектуры..."
+    },
+    {
+        "name": "Go разработчик (middle+)",
+        "vacancy_id": "123669840",
+        "salary": {
+            "from": 230000,
+            "to": 280000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт разработки на одном из backend языков (C++, C#, <highlighttext>Java</highlighttext>) будет преимуществом. Понимание синтаксиса баз данных PostgreSQL, Redis, SQLite. "
+    },
+    {
+        "name": "Разработчик Backend.Kotlin",
+        "vacancy_id": "124597996",
+        "salary": null,
+        "description": "Знание Jackson/Kotlinx Serialization (для JSON). - <highlighttext>Java</highlighttext> (желательно, так как legacy-код может быть на нём). 2. REST API: - Опыт..."
+    },
+    {
+        "name": "Системный аналитик",
+        "vacancy_id": "123661830",
+        "salary": {
+            "from": 4500,
+            "to": 6000,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Уровень Английского от B2. Умение читать и понимать код на С++/С#/<highlighttext>Java</highlighttext>. Опыт работы с торговыми платформами MetaTrader..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123664786",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> 8+ от трех лет. Опыт с Oracle WebLogic (либо другой сервер приложений). Опыт с Spring..."
+    },
+    {
+        "name": "Middle Java Developer",
+        "vacancy_id": "124476974",
+        "salary": null,
+        "description": "От 2-х лет опыта разработки на <highlighttext>Java</highlighttext> (8, 11, 17). Опыт работы с микросервисной архитектурой. Знание Spring Framework (Boot..."
+    },
+    {
+        "name": "QA инженер",
+        "vacancy_id": "124245599",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание языков программирования <highlighttext>Java</highlighttext> или Python на уровне написания тестовых скриптов. Знание Linux на уровне пользователя. Знание инструментов для тестирования..."
+    },
+    {
+        "name": "Технический руководитель продукта (Product CTO)",
+        "vacancy_id": "124383006",
+        "salary": null,
+        "description": "Системное мышление и умение принимать решения в условиях ограниченных ресурсов. Техническая экспертиза: Глубокие знания <highlighttext>Java</highlighttext>, JVM, современных фреймворков (Spring Boot..."
+    },
+    {
+        "name": "Frontend-разработчик в Only",
+        "vacancy_id": "121445572",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенные знания JavaScript (ES6+). Умение верстать с нуля адаптивные интерфейсы с поддержкой современных браузеров. Уверенные знания HTML, CSS..."
+    },
+    {
+        "name": "Java/Kotlin - разработчик",
+        "vacancy_id": "123337412",
+        "salary": null,
+        "description": "От 3-х лет коммерческого опыта на <highlighttext>Java</highlighttext>|Kotlin. Опыт работы с нашим стеком технологий: Kotlin, Spring Boot, Kubernetes, Grafana..."
+    },
+    {
+        "name": "Junior Java-разработчик",
+        "vacancy_id": "124167006",
+        "salary": {
+            "from": 90000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Базовые знания <highlighttext>Java</highlighttext> 21, Spring Framework и желание развиваться в этом направлении. Понимание принципов объектно-ориентированного программирования. Умение работать в..."
+    },
+    {
+        "name": "QA Engineer/Специалист по тестированию",
+        "vacancy_id": "124222657",
+        "salary": {
+            "from": 120000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "опыт тестирования с использованием API запросов от 3х мес. - базовые знания языка <highlighttext>java</highlighttext> и инструмента selenium (опционально, но желательно). - "
+    },
+    {
+        "name": "Старший разработчик Java в проект TeC (Черногория)",
+        "vacancy_id": "124504253",
+        "salary": null,
+        "description": "Отличное знание <highlighttext>Java</highlighttext>. Опыт работы с Spring Framework и Spring Boot обязателен. Хорошее знание SQL, опыт работы с Oracle будет..."
+    },
+    {
+        "name": "QA mobile specialist (Трайб Digital)",
+        "vacancy_id": "124557882",
+        "salary": null,
+        "description": "Знание видов и методологий тестирования. От 3 лет коммерческого опыта. Опыт работы с SoapUI/Postman. Опыт работы с Charles. "
+    },
+    {
+        "name": "Java-разработчик (middle)",
+        "vacancy_id": "124268215",
+        "salary": null,
+        "description": "Необходимый опыт будущего коллеги: Опыт коммерческой backend разработки от 2 лет (middle). Опыт разработки на <highlighttext>Java</highlighttext> от 2-х лет..."
+    },
+    {
+        "name": "Руководитель команды разработки",
+        "vacancy_id": "124371693",
+        "salary": null,
+        "description": "Опыт работы с языками программирования, такими как <highlighttext>Java</highlighttext>/Go. Глубокое понимание принципов разработки RESTful API и работы с серверной архитектурой. "
+    },
+    {
+        "name": "IT Recruiter",
+        "vacancy_id": "124452934",
+        "salary": null,
+        "description": "Ты никогда не предлагал(а) больше 1-го раза JavaScript разработчику позицию \"<highlighttext>Java</highlighttext> developer\"(хихикнули с древней шутки). "
+    },
+    {
+        "name": "Java-разработчик Middle/Senior",
+        "vacancy_id": "122367275",
+        "salary": null,
+        "description": "Знание <highlighttext>Java</highlighttext> 11–21. Опыт разработки микросервисных решений. Понимание Spring Framework (Boot, Web, Cloud, Data, Test). Опыт работы с JPA..."
+    },
+    {
+        "name": "Backend-разработчик (Java) с уклоном в системный анализ",
+        "vacancy_id": "124028321",
+        "salary": {
+            "from": 3000,
+            "to": 4000,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "3+ лет коммерческого опыта на <highlighttext>Java</highlighttext> (11+/17+). Опыт в проектировании API, моделировании данных, написании SQL (PostgreSQL..."
+    },
+    {
+        "name": "Junior Java QA engineer / Инженер по тестированию Java",
+        "vacancy_id": "124507457",
+        "salary": null,
+        "description": "Понимание жизненного цикла разработки ПО и роли тестирования в нем. Знания теории тестирования. Знания <highlighttext>Java</highlighttext> и автоматизации тестирования. "
+    },
+    {
+        "name": "Senior JavaScript developer",
+        "vacancy_id": "124531970",
+        "salary": {
+            "from": 290000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы в программировании от 5 лет. Готовность к тестовому заданию. Открытость к интервью с алгоритмическими задачами. Знание технического английского..."
+    },
+    {
+        "name": "Junior Java-разработчик",
+        "vacancy_id": "124265741",
+        "salary": null,
+        "description": "Знание базовых алгоритмов и структур данных. Знание <highlighttext>Java</highlighttext> SE (collections, streams, multithreading, reflection). Понимание концептов RDBMS. Знание основ SQL. "
+    },
+    {
+        "name": "Junior/Middle Java Software Engineer",
+        "vacancy_id": "124458237",
+        "salary": null,
+        "description": "Коммерческий опыт от 1 года и выше. Знания языков <highlighttext>Java</highlighttext> 17. Опыт работы с фреймворком Spring. Опыт работы с базами..."
+    },
+    {
+        "name": "Ведущий разработчик / Team Lead / Руководитель отдела разработки ПО",
+        "vacancy_id": "124423102",
+        "salary": {
+            "from": 300000,
+            "to": 500000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Полная занятость, полный день. Опыт работы с NHibernate, EFCore, SpringFramework. Опыт работы с Docker, Kafka,Redis. Опыт разработке на <highlighttext>Java</highlighttext>."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124450030",
+        "salary": null,
+        "description": "Какие знания и навыки нам важны: Высшее образование (техническое или экономическое будет преимуществом). Опыт работы в аналогичной должности от 5..."
+    },
+    {
+        "name": "Стажер-разработчик Java",
+        "vacancy_id": "124294792",
+        "salary": null,
+        "description": "Практический опыт работы с <highlighttext>Java</highlighttext> 11+. Практический опыт работы с Kotlin. Практический опыт работы с Spring Framework (Boot, Data..."
+    },
+    {
+        "name": "QA Engineer / Тестировщик Junior+/Middle",
+        "vacancy_id": "124209713",
+        "salary": {
+            "from": null,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "...UI в связке <highlighttext>Java</highlighttext> + Selenide + TestNG). Опыт написания сложных SQL-запросов. Опыт работы с <highlighttext>Java</highlighttext> / Allure. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124411483",
+        "salary": {
+            "from": 40000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Требования: Также Студенты 3-4-5 курсов по специальности IT. Обязательные навыки программирования сайтов по современным технологиям."
+    },
+    {
+        "name": "Backend-разработчик",
+        "vacancy_id": "124585100",
+        "salary": null,
+        "description": "Хорошие понимания <highlighttext>Java</highlighttext> 11-17+ (базовые алгоритмы, исключения, дженерики, функциональное программирование, Stream API, etc). Опыт работы со Spring Framework..."
+    },
+    {
+        "name": "Java QA Инженер",
+        "vacancy_id": "124525927",
+        "salary": {
+            "from": 5000000,
+            "to": 15000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "description": "Компьютерная грамотность, знание linux, навыки в тестировании программных продуктов. Знание api, и базовые знания <highlighttext>java</highlighttext> + bash + lua."
+    },
+    {
+        "name": "Senior Java Developer",
+        "vacancy_id": "124553726",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> от 6 лет. Английский язык – технический. Spring Framework (Spring Boot, Spring Cloud). Опыт проектирования архитектуры..."
+    },
+    {
+        "name": "Java developer",
+        "vacancy_id": "122780353",
+        "salary": null,
+        "description": "Опыт коммерческой разработки от 1 года. Уверенные знания <highlighttext>Java</highlighttext>. Знание базовых алгоритмов и структур данных. Навыки работы с базами данных. "
+    },
+    {
+        "name": "Senior Android Developer",
+        "vacancy_id": "124581679",
+        "salary": null,
+        "description": "Опыт разработки мобильных приложений Android от 5-х лет. Опыт разработки на <highlighttext>Java</highlighttext>/Kotlin от 5-х лет. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124236842",
+        "salary": {
+            "from": 190000,
+            "to": 210000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы <highlighttext>Java</highlighttext>-разработчиком более 3 лет. Знание <highlighttext>Java</highlighttext>, SQL, Spring Framework, Hibernate ORM. Опыт проектирования реляционных баз данных. "
+    },
+    {
+        "name": "Ведущий программист (Java)",
+        "vacancy_id": "122583850",
+        "salary": {
+            "from": 155000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Высшее образование в сфере информационных технологий. Релевантный опыт работы от 3 лет. Знание <highlighttext>Java</highlighttext>. Английский язык - intermediate. Усидчивость, внимательность, ответственность..."
+    },
+    {
+        "name": "Senior Android разработчик",
+        "vacancy_id": "124527661",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт коммерческой разработки Android от 5 лет. Знание <highlighttext>Java</highlighttext> и умение работать с легаси-кодом без страха и боли (в..."
+    },
+    {
+        "name": "PHP - программист / разработчик (PHP Senior / Middle+ Developer)",
+        "vacancy_id": "124430862",
+        "salary": {
+            "from": 230000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "...с системами видео-наблюдения и контроля учета доступа. Опыт работы с NoSQL. Опыт разработки SaaS-решений. Опыт разработки .Net / <highlighttext>Java</highlighttext>."
+    },
+    {
+        "name": "Разработчик Java/Kotlin Spring (Senior Developer)",
+        "vacancy_id": "124436501",
+        "salary": null,
+        "description": "Уровень Senior. Глубокое знание и опыт работы с <highlighttext>Java</highlighttext> и Kotlin. Глубокое знание SQL. Хорошее Знание Spring Framework, PostgreSQL, Apache..."
+    },
+    {
+        "name": "Backend-разработчик",
+        "vacancy_id": "124342476",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> (от 3 лет). Отличное знание Spring Framework. Опыт работы с реляционными базами данных (в проекте..."
+    },
+    {
+        "name": "Middle Backend Разработчик (трайб Corporate)",
+        "vacancy_id": "124449183",
+        "salary": null,
+        "description": "Имеет хорошие компетенции и опыт в <highlighttext>Java</highlighttext> Core, <highlighttext>Java</highlighttext> Spring Boot от 3-х лет. Использует Kubernetes, Docker. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124225878",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "От 2 лет и более опыта коммерческой разработки и уверенные знания <highlighttext>Java</highlighttext> Spring Boot, SQL. ∙Знание принципов и технологий SOA..."
+    },
+    {
+        "name": "Ведущий разработчик Java",
+        "vacancy_id": "124459511",
+        "salary": null,
+        "description": "Опыт коммерческой разработки от 5 лет. Глубокое знание стека технологий: <highlighttext>Java</highlighttext>, Spring/Springboot, PostgreSQL, Kafka, Redis, ORM Hibernate/JPA/jook. "
+    },
+    {
+        "name": "Ведущий менеджер по развитию ИТ (Закупки)",
+        "vacancy_id": "124626511",
+        "salary": null,
+        "description": "Высокая стрессоустойчивость. Ответственное отношение к работе. Навыки делового общения и переписки. Высокая скорость переключения задач. Умение общаться с новыми людьми..."
+    },
+    {
+        "name": "Android Developer [МТС Линк]",
+        "vacancy_id": "124548352",
+        "salary": null,
+        "description": "Имеешь опыт разработки на Kotlin/<highlighttext>Java</highlighttext> не менее 5 лет в коммерческих проектах. Имеешь практический опыт работы с Jetpack Compose..."
+    },
+    {
+        "name": "Frontend-разработчик (React)",
+        "vacancy_id": "124220543",
+        "salary": {
+            "from": 50000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Что ожидаем от кандидата (технические навыки обязательны): ️ Уверенное владение React и NextJS (Хуки, Redux). ️ Верстка адаптивных интерфейсов (HTML5, CSS..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123686857",
+        "salary": null,
+        "description": "Опыт разработки приложений на платформе <highlighttext>Java</highlighttext> 8+. Знание <highlighttext>Java</highlighttext> SE 8+, JPA, Maven. Понимание и опыт работы с..."
+    },
+    {
+        "name": "Java разработчик (Middle/Middle+)",
+        "vacancy_id": "124455439",
+        "salary": null,
+        "description": "Умение понимать чужой код, проводить рефакторинг кода. Уверенное знание <highlighttext>Java</highlighttext> Core/Spring boot. Умение проектировать БД, писать сложные запросы. "
+    },
+    {
+        "name": "Специалист 3 линии поддержки (Процессинговый Центр, Smartvista)",
+        "vacancy_id": "124468214",
+        "salary": null,
+        "description": "Опыт работы в процессинге, банке, финансовой компании. Работа с UNIX-подобными системами. Опыт написания простых SQL-запросов. Знание ISO-протоколов..."
+    },
+    {
+        "name": "Инженера по тестированию  (QA)",
+        "vacancy_id": "124277173",
+        "salary": null,
+        "description": "Знание основ тестирования и жизненного цикла бага. Опыт работы с API, SQL и Linux. Понимание архитектурных подходов (REST, SOAP, микросервисы). "
+    },
+    {
+        "name": "Инженер внедрения и сопровождения",
+        "vacancy_id": "123976730",
+        "salary": null,
+        "description": "Опыт работы с <highlighttext>Java</highlighttext> приложениями (компиляция, развёртывание, анализ логов). Опыт работы с СУБД PostgreSQL. Опыт работы со средами контейнеризации (docker..."
+    },
+    {
+        "name": "Владелец платформы/Технический лидер (Трайб Daily)",
+        "vacancy_id": "124526316",
+        "salary": null,
+        "description": "Понимание современных технологий, используемых в разработке и поддержке ИТ-решений, таких как облачные сервисы, микросервисы, Big Data и AI. "
+    },
+    {
+        "name": "Ведущий разработчик Java",
+        "vacancy_id": "124290861",
+        "salary": null,
+        "description": "Опыт enterprise разработки/разработки высоконагруженных сервисов на <highlighttext>Java</highlighttext> от 5 лет. 2. Отличные знания <highlighttext>Java</highlighttext> Core OOP, Concurrency/Multithreading, Stream..."
+    },
+    {
+        "name": "Разработчик мобильных приложений",
+        "vacancy_id": "124540552",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "iOS: знание Swift, UIKit, SwiftUI, Xcode, iOS SDK. - Android: владение Kotlin, <highlighttext>Java</highlighttext>, Android SDK, Android Studio, Jetpack Compose. - "
+    },
+    {
+        "name": "Старший разработчик Java",
+        "vacancy_id": "124379369",
+        "salary": null,
+        "description": "Понимание принципов построения микросервисной архитектуры. Практический опыт разработки микросервисов. Разработка на <highlighttext>Java</highlighttext> от 3-х лет (у нас 17 версия). "
+    },
+    {
+        "name": "DevOps-инженер",
+        "vacancy_id": "124480124",
+        "salary": {
+            "from": null,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Linux на уровне администратора. Bash scripting. PostgreSQL. ELK. Gitlab CI. Ansible, Docker, Docker swarm. Zabbix, Prometheus + Grafana. Traefik, Nginx. "
+    },
+    {
+        "name": "Java SRE (Инженер по надёжности систем)",
+        "vacancy_id": "124593299",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> от 3 лет. Понимание архитектуры, в плане нефункциональных требований. Знание теории и стандартов в области обеспечения..."
+    },
+    {
+        "name": "Руководитель разработки",
+        "vacancy_id": "124490577",
+        "salary": null,
+        "description": "Имеет опыт разработки на <highlighttext>Java</highlighttext>/Go от 7 лет и глубокое понимание принципов построения надёжных Backend-систем. Обладает подтверждённым опытом..."
+    },
+    {
+        "name": "Java - разработчик c ExtJS",
+        "vacancy_id": "124505044",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание PHP. Фреймворк ExtJS."
+    },
+    {
+        "name": "Инженер по тестированию Android",
+        "vacancy_id": "124532215",
+        "salary": null,
+        "description": "Понимание жизненного цикла разработки ПО и роли QA в нем. Базовый уровень владения языком <highlighttext>Java</highlighttext>/Kotlin. Базовые знания по автотестированию​​​​​​​.​​​​​​​​​​​​​​​​​​​​​."
+    },
+    {
+        "name": "Программист (Разработчик слот игр)",
+        "vacancy_id": "124380727",
+        "salary": null,
+        "description": "Опыт работы в качестве Front-end разработчика <highlighttext>Java</highlighttext> Script (ES6+). Опыт работы с рендерными движками типа Phaser, PIXI.js. "
+    },
+    {
+        "name": "Full stack разработчик",
+        "vacancy_id": "124504799",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "PHP. C#. JavaScript (+ уметь использовать фреймворки jQuery / React (можно, но не обязательно) и другие популярные для создания UI). "
+    },
+    {
+        "name": "Java-разработчик (Москва)",
+        "vacancy_id": "124265392",
+        "salary": {
+            "from": 185000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы <highlighttext>Java</highlighttext>-разработчиком более 2 лет. Понимание принципов OOP, SOLID. Хорошее знание <highlighttext>Java</highlighttext> Core 11+. Знание <highlighttext>Java</highlighttext> Collections..."
+    },
+    {
+        "name": "Технический директор (CTO)",
+        "vacancy_id": "124159414",
+        "salary": {
+            "from": 5000,
+            "to": 7000,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Глубокий инженерный опыт (Python, Go или <highlighttext>Java</highlighttext>). Работа с облачными платформами (AWS, Azure, GCP), Docker/Kubernetes, микросервисная архитектура. "
+    },
+    {
+        "name": "QA Engineer / Тестировщик",
+        "vacancy_id": "123901287",
+        "salary": null,
+        "description": "Понимание жизненного цикла разработки ПО. Понимание принципов клиент-серверного взаимодействия. Опыт создания SQL запросов, опыт работы с БД. "
+    },
+    {
+        "name": "QA Engineer ( Backend)",
+        "vacancy_id": "123529872",
+        "salary": {
+            "from": null,
+            "to": 110000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт в тестировании минимум 1 год. Умение осуществлять тестирование Backend. Опыт написания простых скриптов (на любом языке программирования). "
+    },
+    {
+        "name": "Руководитель группы разработки",
+        "vacancy_id": "124490567",
+        "salary": {
+            "from": 1000000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Стек проекта: NestJS, Postgres, Laravel (vue), React. Плюсом будет умение и понимание CI/CD (GitLab), Kubernetes + Helm. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "122562223",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы от 3-х лет в web-разработке. Уверенное знание <highlighttext>Java</highlighttext>. Опыт работы с СУБД (mysql, postresql, firebird). "
+    },
+    {
+        "name": "Младший разработчик С++",
+        "vacancy_id": "124432088",
+        "salary": {
+            "from": 60000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "...инструментами CI/CD (Jenkins, GitLab CI), системами управления задачами (Jira, YouTrack, Redmine). Знание других объектно-ориентированных языков (C#, <highlighttext>Java</highlighttext>, Python)."
+    },
+    {
+        "name": "Android разработчик-стажер",
+        "vacancy_id": "124426420",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Частичное знание Kotlin (<highlighttext>Java</highlighttext> будет плюсом), Koin, Dagger 2, Coroutines, RxJava 2/3, Retrofit 2, Architecture Components(Room LiveData, ViewModel..."
+    },
+    {
+        "name": "Специалист технической поддержки (дежурный 2\\2)",
+        "vacancy_id": "124439496",
+        "salary": null,
+        "description": "Понимание принципов работы и опыт мониторинга распределенных информационных систем (Psql, MongoDB, ELK, Grafana, SAP BI, Bitrix, Node.js, <highlighttext>Java</highlighttext>). "
+    },
+    {
+        "name": "Web-разработчик",
+        "vacancy_id": "124440973",
+        "salary": {
+            "from": 80000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы с «1C-Битрикс: Управление сайтом» на уровне написания компонентов и модулей (знание Bitrix framework), Joomla, Modx, Wordpress..."
+    },
+    {
+        "name": "Senior Java разработчик",
+        "vacancy_id": "124590141",
+        "salary": null,
+        "description": "Уверенная работа с микросервисами, хорошее понимание современных версий языка <highlighttext>Java</highlighttext> 17+. Отличное знание Spring Boot и сопутствующего стека. "
+    },
+    {
+        "name": "Backend Developer",
+        "vacancy_id": "124369513",
+        "salary": null,
+        "description": "Глубокие знания языка программирования (например,в приоритете Go/<highlighttext>Java</highlighttext>/Kotlin и его стандартные библиотеки). Опыт работы с реляционными и нереляционными..."
+    },
+    {
+        "name": "Аналитик",
+        "vacancy_id": "122243475",
+        "salary": null,
+        "description": "Опыт бизнес-анализа, разработки и описания бизнес-процеcсов. Желательно знание <highlighttext>java</highlighttext>. Будет плюсом опыт работы на Low-code платформе, работа..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124417635",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> от 5 лет. Опыт коммерческой разработки на <highlighttext>Java</highlighttext> 11+ или Kotlin. Опыт коммерческой разработки с..."
+    },
+    {
+        "name": "Android-разработчик",
+        "vacancy_id": "124538110",
+        "salary": null,
+        "description": "Знание жизненного цикла Activity и Fragment. Работа с сервисами и BroadcastReceiver. <highlighttext>Java</highlighttext>/Kotlin (предпочтительно Kotlin). Опыт работы с многопоточностью. "
+    },
+    {
+        "name": "Тестировщик ПО/QA engineer",
+        "vacancy_id": "122988430",
+        "salary": null,
+        "description": "Умение работать с несколькими проектами одновременно. Знание языков программирования (Python, <highlighttext>JAVA</highlighttext>, PowerShell). Знание языка SQL на уровне написания простых запросов. "
+    },
+    {
+        "name": "Backend Java Middle Developer",
+        "vacancy_id": "124376336",
+        "salary": null,
+        "description": "Знание и опыт использования фреймворков, таких как Spring или <highlighttext>Java</highlighttext> EE. 2. Языки программирования: Знание языка программирования <highlighttext>Java</highlighttext> и сопутствующих..."
+    },
+    {
+        "name": "Java-разработчик / Team Lead - Senior",
+        "vacancy_id": "124340703",
+        "salary": null,
+        "description": "Опыт коммерческой разработчик от 5 лет. Хорошее знание <highlighttext>Java</highlighttext> 11+. Уверенное знание <highlighttext>Java</highlighttext> Core: Collection, Concurrency, JDBC. "
+    },
+    {
+        "name": "Data Engineer",
+        "vacancy_id": "124492950",
+        "salary": null,
+        "description": "...средством (Erwin либо Power Designer, IBM Data Architect, Sparx Systems Enterprise Architect и т.п.). Опыт с Python, <highlighttext>Java</highlighttext>, С#."
+    },
+    {
+        "name": "Java - разработчик",
+        "vacancy_id": "123565131",
+        "salary": null,
+        "description": "Знание <highlighttext>Java</highlighttext>, Spring framework. Знание ООП и паттернов проектирования. Опыт разработки высоконагруженных приложений и оптимизации кода. Знание SQL, (в частности..."
+    },
+    {
+        "name": "Event-менеджер",
+        "vacancy_id": "124115381",
+        "salary": null,
+        "description": "Опыт в event-менеджменте от 2 лет. Умение работать с договорами, бюджетами и отчетностью. Навыки переговоров с площадками и подрядчиками. "
+    },
+    {
+        "name": "Стажер-разработчик Java",
+        "vacancy_id": "123723930",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Высшее образование в области технических наук и технологий (компьютерная инженерия/ информационные системы/ вычислительная техника и программное обеспечение/ прикладная математика). "
+    },
+    {
+        "name": "Разработчик Java",
+        "vacancy_id": "124123636",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> от 2х лет (Spring 3, CUBA 5.6). -Опыт разработки и поддержки СЭД Тезис 4..."
+    },
+    {
+        "name": "QA Automation Engineer / Manual tester (Azerbaijan)",
+        "vacancy_id": "124594824",
+        "salary": {
+            "from": 3000,
+            "to": 4000,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Experience in at least one of the following databases: Oracle Database, MS SQL Server. <highlighttext>Java</highlighttext> Knowledge, Javascript Knowledge. "
+    },
+    {
+        "name": "Java Developer [Trust & Safety]",
+        "vacancy_id": "124083484",
+        "salary": null,
+        "description": "Необходимые опыт и навыки: Обязательно знание минимум одного из языков на хорошем уровне: <highlighttext>Java</highlighttext>, Golang. Понимание паттернов проектирования, в т..."
+    },
+    {
+        "name": "Java software developer middle (Честный знак)",
+        "vacancy_id": "124296751",
+        "salary": null,
+        "description": "Опыт работы с микро-сервисной архитектурой. Опыт хайлоуд разработки. Опыт коммерческой разработки. Опыт чтения технической документации. Понимание принципов работы современных..."
+    },
+    {
+        "name": "Тестировщик, QA fullstack (Java/Selenium)",
+        "vacancy_id": "124082351",
+        "salary": null,
+        "description": "Опыт автоматизации тестирования ПО от (<highlighttext>Java</highlighttext>, Selenium). Опыт работы с тестовыми фреймворками TestNG/JUnit. Опыт работы с SQL на уровне..."
+    },
+    {
+        "name": "Стажер Java-разработчик",
+        "vacancy_id": "124106771",
+        "salary": null,
+        "description": "Владеешь <highlighttext>Java</highlighttext> и Spring. Понимаешь основы работы баз данных и SQL. Ответственен и внимателен к деталям. Имеешь навыки работы в..."
+    },
+    {
+        "name": "Менеджер по качеству и технологической поддержке",
+        "vacancy_id": "124539591",
+        "salary": {
+            "from": 338000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт владения пакетами офисных приложений (MS Office) и понимание основ современных IT-технологий (JSON, XML, ETL, JavaScript, <highlighttext>Java</highlighttext>, HTML, CSS..."
+    },
+    {
+        "name": "Senior Java Developer",
+        "vacancy_id": "124414495",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> 8 (-17). Опыт работы с Spring Framework (Core, Boot, Data), JPA, Hibernate. Опыт работы с..."
+    },
+    {
+        "name": "Java Developer",
+        "vacancy_id": "123463050",
+        "salary": null,
+        "description": "at least 1 years of commercial development experience in <highlighttext>Java</highlighttext>.  database design experience; design patterns.  RESTful interfaces.  Concurrency/multithreading.  "
+    },
+    {
+        "name": "Java-разработчик middle / middle+",
+        "vacancy_id": "124155657",
+        "salary": null,
+        "description": "Аналогичный опыт работы от 3-х лет. Технологии программирования: <highlighttext>java</highlighttext> 17+, JPA, Spring Framework 5+, Spring Boot 3..."
+    },
+    {
+        "name": "QA инженер (middle+/senior)",
+        "vacancy_id": "123811213",
+        "salary": null,
+        "description": "Автоматизация: Опыт автоматизации тестов на <highlighttext>Java</highlighttext> (фреймворки: Selenium, Rest Assured). Соотношение ручное/авто: ~60%/40%. Backend/API: Глубокое понимание и..."
+    },
+    {
+        "name": "ИТ рекрутер",
+        "vacancy_id": "123840299",
+        "salary": null,
+        "description": "Опыт закрытия ИТ вакансий с погружением в стек технологий от 3 лет. Знание Хантфлоу. Использование различных источников привлечения кандидатов. "
+    },
+    {
+        "name": "Software Developer (Full-Stack)",
+        "vacancy_id": "124592321",
+        "salary": {
+            "from": 2000,
+            "to": 2500,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Proficiency in PHP, <highlighttext>Java</highlighttext>, Python (that’s the current stack, but we are flexible for future developments), and a solid..."
+    },
+    {
+        "name": "Frontend-разработчик (Vue. js)",
+        "vacancy_id": "124371938",
+        "salary": null,
+        "description": "Наличие опыта работы с Vue.js является обязательным требованием. Опыт коммерческой разработки от 2 лет. Опыт адаптивной и кроссбраузерной верстки. "
+    },
+    {
+        "name": "Программист на Python (инженер-программист)",
+        "vacancy_id": "124371086",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Хорошее знание английского языка на уровне чтения научной и технической документации. Желательно знание языков программирования <highlighttext>Java</highlighttext> и JavaScript, опыт программирования..."
+    },
+    {
+        "name": "Java backend-разработчик эквайринговых систем, Витебск",
+        "vacancy_id": "124546138",
+        "salary": null,
+        "description": "Уровень: middle/senior. Уверенное владение <highlighttext>Java</highlighttext>. Опыт работы со Spring Boot, Hibernate, Gradle. Знание SQL. Базовые навыки работы с Git..."
+    },
+    {
+        "name": "Senior Frontend (React) Developer (Тула)",
+        "vacancy_id": "122561925",
+        "salary": null,
+        "description": "React. Redux или MobX. JavaScript, TypeScript. REST или GraphQL. Отличные навыки адаптивной и кросс-браузерной верстки. Material UI или Ant..."
+    },
+    {
+        "name": "Android разработчик",
+        "vacancy_id": "124561532",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "2+ года опыта коммерческой разработки под Android. Английский на уровне чтения документаци. Обязательно хорошее знание русского языка. "
+    },
+    {
+        "name": "Middle Java-разработчик",
+        "vacancy_id": "124323165",
+        "salary": {
+            "from": 150000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с <highlighttext>Java</highlighttext> от 1 до 3 лет. Знание Spring Framework и Hibernate. Умение работать с базами данных (SQL..."
+    },
+    {
+        "name": "Разработчик SQL (Отчетность ЦБ РФ)",
+        "vacancy_id": "124606257",
+        "salary": null,
+        "description": "Опыт разработки корпоративных приложений. Знание предметной сферы - экономика или бухгалтерский учет. Хороший уровень знания SQL. Понимание принципов архитектуры клиент-серверных..."
+    },
+    {
+        "name": "Java разработчик",
+        "vacancy_id": "123743606",
+        "salary": null,
+        "description": "3+ года коммерческого опыта в разработке на <highlighttext>Java</highlighttext>. — Отличное знание <highlighttext>Java</highlighttext> 11+ и Spring (Boot, Data, Kafka). — "
+    },
+    {
+        "name": "Java/Kotlin Developer (Spring)",
+        "vacancy_id": "124187240",
+        "salary": null,
+        "description": "Опыт коммерческой разработки back-end на <highlighttext>Java</highlighttext>/Kotlin от 3 лет. Опыт работы с Spring Framework. Опыт работы с реляционными..."
+    },
+    {
+        "name": "Java разработчик (middle)",
+        "vacancy_id": "124247134",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт коммерческой разработки backend на <highlighttext>Java</highlighttext>/Kotlin, Spring, Hibernate от 3-х лет. Знание Hibernate ORM (подойдет опыт с любым..."
+    },
+    {
+        "name": "Java-разработчик (Middle+/Senior)",
+        "vacancy_id": "122714770",
+        "salary": null,
+        "description": "Глубокое понимание ООП. Опыт разработки на языке программирования <highlighttext>Java</highlighttext>. Умение писать понятный и легкочитаемый код. Знание архитектурных паттернов. "
+    },
+    {
+        "name": "Android-разработчик (junior)",
+        "vacancy_id": "124337027",
+        "salary": {
+            "from": null,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт программирования на <highlighttext>Java</highlighttext> и Kotlin. Опыт разработки с использованием инструментов RxJava, Coroutines и Dagger2. Опыт реализации мета-паттернов..."
+    },
+    {
+        "name": "Java разработчик (middle+/senior)",
+        "vacancy_id": "124418707",
+        "salary": null,
+        "description": "3+ лет плотной разработки на <highlighttext>Java</highlighttext>. Знание основных библиотек и шаблонов проектирования. Умение применять принципы SOLID, Clean сode. "
+    },
+    {
+        "name": "Java-разработчик в Кредиты наличными",
+        "vacancy_id": "124548360",
+        "salary": null,
+        "description": "У вас есть опыт работы с <highlighttext>Java</highlighttext> Core. Знаете контейнеризацию — в приоритете Docker. Знаете Hibernate и Git. Разбираетесь в Spring..."
+    },
+    {
+        "name": "QA Engineer (Mobile)",
+        "vacancy_id": "124181389",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы в роли тестировщика от 2 лет. Умение приоритизировать обнаруженные проблемы согласно ожиданиям бизнеса. Опыт тестирования Аndroid, iOS. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123936157",
+        "salary": {
+            "from": 155000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание программных продуктов: <highlighttext>Java</highlighttext>, Spring, Typescript, Angular, SQL, Postgresql. Умение работать в команде и вести рабочую документацию. Знание концепций \"чистого..."
+    },
+    {
+        "name": "Fullstack Java Developer",
+        "vacancy_id": "124343457",
+        "salary": null,
+        "description": "Хорошее знание <highlighttext>Java</highlighttext> SE (8 и выше) и <highlighttext>Java</highlighttext> EE (5 и выше). Опыт работы с промышленными СУБД, SQL. "
+    },
+    {
+        "name": "QA Automation engineer (Python / Java)",
+        "vacancy_id": "124525784",
+        "salary": {
+            "from": null,
+            "to": 230000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт автоматизации от 3 лет. Уверенное знание Python или <highlighttext>Java</highlighttext>. Опыт работы с фреймворками (PyTest, Selenium, JUnit, TestNG). "
+    },
+    {
+        "name": "Senior java разработчик",
+        "vacancy_id": "124527947",
+        "salary": null,
+        "description": "Уверенное знание <highlighttext>Java</highlighttext> Core 8 и выше. Уверенное знание и опыт применения основных шаблонов проектирования приложений <highlighttext>Java</highlighttext> (Design Patterns). "
+    },
+    {
+        "name": "Java-разработчик (Senior)",
+        "vacancy_id": "123644936",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> (11+) от 5 лет. Отличное знание <highlighttext>Java</highlighttext> Core: коллекции, многопоточность. Уверенная работа с Spring..."
+    },
+    {
+        "name": "Программист Java",
+        "vacancy_id": "124297690",
+        "salary": {
+            "from": 100000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Базовые знания <highlighttext>Java</highlighttext> и принципов ООП. Понимание клиент-серверной архитектуры и работы HTTP. Навыки работы с базами данных (SQL на..."
+    },
+    {
+        "name": "Специалист технической поддержки / Support engineer",
+        "vacancy_id": "124510178",
+        "salary": {
+            "from": null,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы в технической/бизнес-поддержке не менее 1 года. Первичные навыки работы с системами управления базами данных. "
+    },
+    {
+        "name": "QA-инженер \\ QA-engineer",
+        "vacancy_id": "122174760",
+        "salary": {
+            "from": 80000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Навыки работы с Jenkins. Аккуратность в составлении документации и желание развиваться в сторону автоматизации тестов. Знание <highlighttext>Java</highlighttext> \\ Kotlin."
+    },
+    {
+        "name": "Тестировщик",
+        "vacancy_id": "123745235",
+        "salary": null,
+        "description": "Понимание жизненного цикла разработки программного обеспечения и жизненного цикла тестирования. Готовность и способность быстро учиться, желание разобраться в продуктах компании..."
+    },
+    {
+        "name": "QA Engineer / Инженер по качеству",
+        "vacancy_id": "116373193",
+        "salary": {
+            "from": 60000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Ответственность, аккуратность, внимательность, инициативность, желание развиваться. Знание хотя бы одного языка программирования (<highlighttext>Java</highlighttext>, Groovy, JavaScript, C#, Python). Знание языка SQL. "
+    },
+    {
+        "name": "Senior Frontend разработчик (React)",
+        "vacancy_id": "124126612",
+        "salary": null,
+        "description": "Опыт разработки инфраструктурных решений. Опыт разработки на <highlighttext>Java</highlighttext> и Python. Опыт работы в продуктовой команде. Опыт работы с платформами виртуализации. "
+    },
+    {
+        "name": "Java-программист (Backend)",
+        "vacancy_id": "124014461",
+        "salary": null,
+        "description": "Опыт работы не менее 2 лет. Знания ООП (принципов, шаблонов). <highlighttext>Java</highlighttext>8+. Spring Boot, Spring Core, Spring Web. "
+    },
+    {
+        "name": "Владелец продукта/ Product owner",
+        "vacancy_id": "124232820",
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы владельцем продукта не менее 3-х лет. Подтвержденный опыт руководства end-to-end внедрением продукта с измеримым финансовым..."
+    },
+    {
+        "name": "Java Junior Developer",
+        "vacancy_id": "123846307",
+        "salary": {
+            "from": 90000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> от 6 месяцев (подойдут стажировки и pet-проекты). Понимание ООП, коллекций, обработки исключений. Знание Git. "
+    },
+    {
+        "name": "Backend разработчик Python (Big Data)",
+        "vacancy_id": "124409649",
+        "salary": null,
+        "description": "Уверенные знания Python (Flask, FastAPI), <highlighttext>Java</highlighttext> или Go от 3 лет. Глубокие знания REST API, WebSocket и GraphQL. "
+    },
+    {
+        "name": "Java-разработчик (Департамент «Управление ресурсами предприятия»)",
+        "vacancy_id": "123033591",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>JAVA</highlighttext> от 8 версии и выше. Знание и опыт разработки на Spring Framework. Знание и практический опыт..."
+    },
+    {
+        "name": "Junior Java Developer",
+        "vacancy_id": "124342967",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Практический опыт — участие в продакшн-проектах. Обязательные навыки: <highlighttext>Java</highlighttext> 8+. Spring. PostgreSQL, уверенные знания SQL. Hibernate JPA. Apache Kafka. "
+    },
+    {
+        "name": "BackEnd Developer (Java/Kotlin)",
+        "vacancy_id": "124481483",
+        "salary": {
+            "from": 600,
+            "to": 3500,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Хороший уровень владения одним из языков (<highlighttext>Java</highlighttext>, Kotlin). Опыт работы с одним из фреймворков (Ktor, Quarkus, Vert.x, Axon Framework..."
+    },
+    {
+        "name": "Backend-разработчик Kotlin/Java (junior)",
+        "vacancy_id": "42636573",
+        "salary": {
+            "from": 60000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Какой-либо опыт разработки на Kotlin или опыт разработки серверных приложений на <highlighttext>Java</highlighttext> и Spring Framework (Spring MVC, Spring Security..."
+    },
+    {
+        "name": "Младший разработчик",
+        "vacancy_id": "120230311",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Понимания принципов объектно-ориентированного программирования, знание одного или нескольких языков высокого уровня (C++, <highlighttext>java</highlighttext>, pascal). Ответственность, самостоятельность, инициативность. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124187815",
+        "salary": {
+            "from": null,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> от 3 лет. Глубокое понимание принципов ООП и паттернов проектирования. Опыт работы с микросервисной архитектурой. "
+    },
+    {
+        "name": "Java-разработчик (продукт Korona)",
+        "vacancy_id": "119306302",
+        "salary": null,
+        "description": "Опыт разработки приложений на языке <highlighttext>Java</highlighttext> от 3-х лет. Уверенные глубокие знания <highlighttext>Java</highlighttext> Core, Spring Framework. Знания основных алгоритмов..."
+    },
+    {
+        "name": "Старший инженер тестировщик/QA automation",
+        "vacancy_id": "124478706",
+        "salary": null,
+        "description": "...для дальнейшей разработки автоматизированных тестов. Автоматизировал мобильные приложения (Appium). В своей работе использовал SqlAlchemy. Знаком с <highlighttext>Java</highlighttext>. Имеешь опыт наставничества."
+    },
+    {
+        "name": "Flutter-разработчик",
+        "vacancy_id": "124607920",
+        "salary": null,
+        "description": "Знание и опыт использования библиотек bloc, auto_route. Знание языков <highlighttext>Java</highlighttext>/Kotlin и/или Objective C/Swift приветствуется. Опыт нативной разработки..."
+    },
+    {
+        "name": "Специалист по автоматизации тестирования / QA Engineer",
+        "vacancy_id": "122995042",
+        "salary": null,
+        "description": "Базовые знания любого языка программирования (<highlighttext>Java</highlighttext>, Python и тд). Знание основ SQL. Ответственность, внимательность к деталям и аналитический склад ума. "
+    },
+    {
+        "name": "Java разработчик (Middle+/Senior)",
+        "vacancy_id": "123523430",
+        "salary": null,
+        "description": "Коммерческий опыт разработки на <highlighttext>Java</highlighttext> 11+ от 3-х лет. Уверенные знания Spring Framework (Boot, MVC, Data, Security; приветствуется..."
+    },
+    {
+        "name": "Performance Test Engineer - LOAD tester",
+        "vacancy_id": "124574496",
+        "salary": {
+            "from": 3000,
+            "to": 5000,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Уверенное владение инструментами нагрузочного тестирования (Gatling, JMeter или аналогами). Знание SQL на уровне составления запросов с join-ами и базового..."
+    },
+    {
+        "name": "Fullstack-разработчик Java",
+        "vacancy_id": "124598577",
+        "salary": {
+            "from": 120000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> — от 4 лет. Уверенные знания Spring Framework (Boot, Cloud, Security, Data, JPA, Core). Spring boot - с..."
+    },
+    {
+        "name": "Junior Java Developer",
+        "vacancy_id": "124189158",
+        "salary": {
+            "from": 75000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание языка <highlighttext>Java</highlighttext>. Опыт работы с системой контроля версий GIT. Знание фреймворка Spring и контейнеризации с помощью Docker. "
+    },
+    {
+        "name": "Разработчик С#",
+        "vacancy_id": "124563050",
+        "salary": null,
+        "description": "C# (.NET 6+, ASP.NET Core, EF Core) или <highlighttext>Java</highlighttext>. Python 3 (опыт разработки высоконагруженных сервисов, библиотек для работы с..."
+    },
+    {
+        "name": "Маркетолог (B2B/IT)",
+        "vacancy_id": "124549022",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт в маркетинге от 3-х лет (желателен опыт в B2B/IT). Понимание маркетинговых каналов и инструментов. "
+    },
+    {
+        "name": "Blockchain Golang Developer (Web3)",
+        "vacancy_id": "124197170",
+        "salary": {
+            "from": 7000,
+            "to": 8500,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "in Web3/blockchain development. Exp. in at least one of: <highlighttext>Java</highlighttext>, C, C#, C++, Rust or Ruby. Strong exp. "
+    },
+    {
+        "name": "Kotlin разработчик (Middle)",
+        "vacancy_id": "124410105",
+        "salary": {
+            "from": null,
+            "to": 335000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Приветствуется хорошее знание банковских процессов и продуктов (платежи, переводы и пр.). Опыт разработки на Kotlin / <highlighttext>Java</highlighttext>. Знания Spring (Boot, Data..."
+    },
+    {
+        "name": "Стажер мобильный Android разработчик | Kaspersky",
+        "vacancy_id": "124561683",
+        "salary": null,
+        "description": "Есть опыт написания программ на <highlighttext>Java</highlighttext>/Kotlin Core."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123759745",
+        "salary": {
+            "from": 320000,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Глубокое понимание архитектуры ПО, ООП и принципов разработки SaaS. Экспертные знания <highlighttext>Java</highlighttext> и Spring Boot для создания микросервисов и RESTful..."
+    },
+    {
+        "name": "Помощник менеджера проекта",
+        "vacancy_id": "124483567",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Базовые знания принципов объектно-ориентированного программирования (ООП). – Опыт чтения и анализа исходного кода (<highlighttext>Java</highlighttext>, Python, C# или аналогичные языки). – "
+    },
+    {
+        "name": "Unity3D - разработчик",
+        "vacancy_id": "124430052",
+        "salary": null,
+        "description": "Опыт создания многопоточных приложений. — Умение обращаться с БД, знание SQL. — Опыт <highlighttext>Java</highlighttext>-разработки. — Навыки работы с системами контроля версий. — "
+    },
+    {
+        "name": "Мидл фулстек-разработчик (Java/ReactJS)",
+        "vacancy_id": "120110986",
+        "salary": null,
+        "description": "Высшее образование. Опыт разработки на <highlighttext>Java</highlighttext> (<highlighttext>Java</highlighttext> Core, Spring Boot) от 2-х лет. Опыт разработки на ReactJS и Module..."
+    },
+    {
+        "name": "QA-инженер (backend)",
+        "vacancy_id": "122207901",
+        "salary": null,
+        "description": "Имеете опыт в автоматизации от 1 года на <highlighttext>Java</highlighttext> или Kotlin. Знаете тест-дизайн: умеете применять основные техники, составлять чек..."
+    },
+    {
+        "name": "Java developer (Middle/Senior)",
+        "vacancy_id": "123113544",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> (минимум 8-я версия) от 2-х лет. Уверенное владение Spring Framework, Spring Boot. "
+    },
+    {
+        "name": "Backend-разработчик",
+        "vacancy_id": "124243873",
+        "salary": null,
+        "description": "Опыт бэкенд разработки на Kotlin/<highlighttext>Java</highlighttext> от года. Знание Spring Framework. Понимание принципов SOLID и шаблонов проектирования. Опыт работы с..."
+    },
+    {
+        "name": "QA инженер (frontend)",
+        "vacancy_id": "122857062",
+        "salary": null,
+        "description": "Есть опыт разработки автоматизированных сценариев на JavaScript/TypeScript, <highlighttext>Java</highlighttext>, Kotlin, Python или C#. Есть опыт работы с DevTools, снифферами трафика..."
+    },
+    {
+        "name": "Инженер-программист (Middle Frontend Engineer (React))",
+        "vacancy_id": "124209507",
+        "salary": {
+            "from": 2000,
+            "to": 4000,
+            "currency": "BYR",
+            "gross": false
+        },
+        "description": "Практический опыт работы на React от 2-3 лет. Уверенные знания Javascript, Typescript, HTML, CSS (CSS-in-JS, tailwind). "
+    },
+    {
+        "name": "Стажер IT (SRE - инженер, Казань)",
+        "vacancy_id": "123692298",
+        "salary": {
+            "from": 46000,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Законченное высшее техническое образование. Основы ООП, простейшие алгоритмы. Базовые знания <highlighttext>Java</highlighttext>/Python необходимы. Знакомство с БД MS SQL или Oracle. "
+    },
+    {
+        "name": "Стажер аналитик автоматизации/аналитик BI",
+        "vacancy_id": "123116027",
+        "salary": null,
+        "description": "...данные так, чтобы их было удобно читать и использовать. Обмен опытом через cообщества: 12 технических комьюнити от <highlighttext>java</highlighttext> до devops."
+    },
+    {
+        "name": "Middle Java developer",
+        "vacancy_id": "124358081",
+        "salary": null,
+        "description": "Опыт от 3 лет разработки на <highlighttext>java</highlighttext>/kotlin. Опыт работы со Spring экосистемой, Spring Boot. Опыт работы с реляционными БД..."
+    },
+    {
+        "name": "Младший разработчик автотестов (автотестировщик)",
+        "vacancy_id": "124496350",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Правила русского языка (орфографию и пунктуацию). Языки <highlighttext>Java</highlighttext>, JS (TypeScript возможно), умение читать и понимать написанное другими. Опыт работы с..."
+    },
+    {
+        "name": "QA-инженер / Тестировщик",
+        "vacancy_id": "124144080",
+        "salary": null,
+        "description": "Знание инструментов автоматизации: Selenium, Playwright, PyTest. Написание автотестов на языках программирования (Python, <highlighttext>Java</highlighttext>, JavaScript). Опыт работы с фин. тех продуктами. "
+    },
+    {
+        "name": "Java Backend Developer",
+        "vacancy_id": "124339225",
+        "salary": {
+            "from": 4000,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "description": "Знание и понимание принципов ООП, SOLID, основных паттернов проектирования. Уверенные знания <highlighttext>Java</highlighttext> (8/11/17). Понимание архитектуры Spring Framework, Spring..."
+    },
+    {
+        "name": "DevOps-инженер",
+        "vacancy_id": "124556314",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы в аналогичной должности от 3 лет. Полноценный опыт построения и поддержки пайплайнов в GitLab CI. Глубокие знания и..."
+    },
+    {
+        "name": ".NET-разработчик",
+        "vacancy_id": "123548318",
+        "salary": null,
+        "description": "Знание и опыт работы с <highlighttext>Java</highlighttext>. Опыт front-end разработки (React). Опыт работы с Kafka. Опыт работы с любым third..."
+    },
+    {
+        "name": "Бизнес-аналитик",
+        "vacancy_id": "123828193",
+        "salary": {
+            "from": null,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Высшее образование (специальность: информатика и вычислительная техника; инфокоммуникационные технологии и системы связи; информационные системы и технологии; прикладная информатика; программная инженерия). "
+    },
+    {
+        "name": "Automation QA Engineer",
+        "vacancy_id": "124504533",
+        "salary": {
+            "from": 180000,
+            "to": 220000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт ручного тестирования. Экспертиза в <highlighttext>Java</highlighttext>/TypeScript для автоматизации. Практический опыт работы с Cucumber для E2E и интеграционного..."
+    },
+    {
+        "name": "Senior React Developer / Senior React Architect",
+        "vacancy_id": "124245664",
+        "salary": null,
+        "description": "Опыт опыт разработки back end сервисов под UI; знание <highlighttext>Java</highlighttext>, Spring. Опыт оптимизации производительности с использованием React Profiler, memoization, lazy..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124420500",
+        "salary": null,
+        "description": "У вас есть опыт работы с <highlighttext>Java</highlighttext> Core. Знаете контейнеризацию — в приоритете Docker. Знаете Hibernate и Git. Разбираетесь в Spring..."
+    },
+    {
+        "name": "Java - разработчик",
+        "vacancy_id": "123661812",
+        "salary": null,
+        "description": "Опыт разработки на языке <highlighttext>Java</highlighttext> от 3 лет (знания стека: collections, JMM). Уверенное знание <highlighttext>Java</highlighttext> Core. Хорошее знание и понимание..."
+    },
+    {
+        "name": "Разработчик Java / Kotlin",
+        "vacancy_id": "124306586",
+        "salary": {
+            "from": null,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Желательно: Опыт разработки в системах BPM / BPMS. Опыт работы перехода с <highlighttext>Java</highlighttext> на Kotlin, знание Kotlin. Преимуществом будет следующий опыт..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "vacancy_id": "124108433",
+        "salary": {
+            "from": 4500,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "description": "Умение разбираться и поддерживать чужой код. Знания по <highlighttext>Java</highlighttext>, Sql будут плюсом. Обязательно. Уверенные знания в React, JavaScript, HTML5..."
+    },
+    {
+        "name": "Cистемный администратор (OPS engineer)",
+        "vacancy_id": "124533299",
+        "salary": null,
+        "description": "Опыт работы в качестве Ops инженера от 3-х лет. Знание TCP/IP стека. Опыт работы с BGP, OSPF. "
+    },
+    {
+        "name": "Инженер-наладчик (системный администратор)",
+        "vacancy_id": "124588183",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знания: базы данных, СУБД, <highlighttext>Java</highlighttext>, С++, Python, операционные системы, системное ПО. Установка и настройка операционных систем Windows, Linux. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123901988",
+        "salary": {
+            "from": 70000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенное владение современным инструментарием разработки: ide(intellijidea), ssh. Стек: <highlighttext>java</highlighttext>, postgresql, spring boot, hibernate, docker (docker compose), spring data jdbc..."
+    },
+    {
+        "name": "Инженер по тестированию / QA engineer",
+        "vacancy_id": "124223759",
+        "salary": null,
+        "description": "Умение анализировать бизнес-процессы и выбирать подходы к их тестированию. Знания и опыт в <highlighttext>JAVA</highlighttext>, с web-технологиями ( HTML, JS..."
+    },
+    {
+        "name": "QA инженер",
+        "vacancy_id": "122758322",
+        "salary": null,
+        "description": "Навыки работы с исходным кодом на уровне чтения (javascript/<highlighttext>java</highlighttext>). Опыт работы с одной из систем управления тестирования (TestRails, TestLink..."
+    },
+    {
+        "name": "Системный администратор СКУД и видеонаблюдения",
+        "vacancy_id": "124262156",
+        "salary": {
+            "from": 600000,
+            "to": 700000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Внимательность и ответственность — ты тот человек, который первым заметит сбой и не позволит ему разрастись. Python, PHP, <highlighttext>Java</highlighttext>, Go, C..."
+    },
+    {
+        "name": "Android Developer",
+        "vacancy_id": "124328170",
+        "salary": null,
+        "description": "Опыт: более 4 лет разработки Android-приложений. Навыки: отличное знание <highlighttext>Java</highlighttext>, Kotlin, Coroutines, Flow и опыт отладки работающих приложений. "
+    },
+    {
+        "name": "Java Team Lead (Cyprus)",
+        "vacancy_id": "124542819",
+        "salary": null,
+        "description": "Сильный опыт работы с <highlighttext>Java</highlighttext> и Spring framework. Профессиональные знания AWS, Docker, Kubernetes и Kafka. Глубокое понимание MSSQL и PostgreSQL. "
+    },
+    {
+        "name": "QA engineer (нагрузочное тестирование)",
+        "vacancy_id": "124539215",
+        "salary": null,
+        "description": "Разработка джоб на groovy, ansible, автоматизация при помощи shell, bash от 2-х лет. Профилирование <highlighttext>Java</highlighttext> приложений. Понимание основ оптимизации..."
+    },
+    {
+        "name": "Senior Java developer (Core)",
+        "vacancy_id": "124630301",
+        "salary": null,
+        "description": "Пишет на <highlighttext>Java</highlighttext> минимум от 3 лет. Уверенно знает алгоритмы и структуры данных. Знает реляционные БД и SQL. "
+    },
+    {
+        "name": "Lead Python Developer (Telegram/Backend)",
+        "vacancy_id": "124453604",
+        "salary": {
+            "from": 150000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с Pyrogram, Telethon. Обязательно опыт Bot Telegram API и User Telegram API. Опыт организации оплат через Телеграм(Ton..."
+    },
+    {
+        "name": "Junior Java разработчик",
+        "vacancy_id": "123750219",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Базовые знания <highlighttext>Java</highlighttext> (Core, Collections, Multithreading). Опыт работы с Spring Boot (или готовность быстро освоить). Понимание REST API, SQL (например..."
+    },
+    {
+        "name": "QA Automation Engineer",
+        "vacancy_id": "124631990",
+        "salary": null,
+        "description": "Опыт тестирования от 5-ти лет. Опыт мобильного тестирования/автоматизированного тестирования от 3-х лет. Готовность работать с терминалами. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123616304",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт изучения или работы с Angular. Опыт применения REST API будет преимуществом. Знание принципов и шаблонов проектирования. Наличие высшего технического..."
+    },
+    {
+        "name": "Java разработчик",
+        "vacancy_id": "124422531",
+        "salary": null,
+        "description": "Опыт разработки от 1 года на Kotlin/<highlighttext>Java</highlighttext> с использованием spring Framework (boot, web, security, data, jpa, aop, validation). "
+    },
+    {
+        "name": "Программист интеграционных решений",
+        "vacancy_id": "124451267",
+        "salary": {
+            "from": null,
+            "to": 235000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы от 3 лет в качестве разработчика. Опыт работы с SQL и оптимизация запросов. Навык написания интеграционных и Unit..."
+    },
+    {
+        "name": "Стажер Data Engineer",
+        "vacancy_id": "124461206",
+        "salary": null,
+        "description": "Представление о структурах данных и алгоритмах. Базовые знания языков программирования (<highlighttext>Java</highlighttext>, Python). Желание учиться и пробовать новые технологии. "
+    },
+    {
+        "name": "Junior Java-разработчик",
+        "vacancy_id": "123764646",
+        "salary": null,
+        "description": "Опыт работы от 6 месяцев (коммерческий). Базовые знания ООП, SQL (MySQL, MariaDB), <highlighttext>Java</highlighttext> EE, Spring, Hibernate, Maven. Личные качества: Умение..."
+    },
+    {
+        "name": "Тестировщик-QA-инженер",
+        "vacancy_id": "123883809",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт работы с автотестами на <highlighttext>Java</highlighttext>. Знакомство с инструментами типа Playwright, Allure. Базовые знания SQL (понимание структуры БД, написание простых..."
+    },
+    {
+        "name": "Java разработчик",
+        "vacancy_id": "124338364",
+        "salary": null,
+        "description": "Высшее техническое образование. Опыт разработки на <highlighttext>Java</highlighttext> 8+ в коммерческих проектах от 3 лет. Глубокое знание Spring Framework, Hibernate..."
+    },
+    {
+        "name": "Backend-разработчик (Java)",
+        "vacancy_id": "123694773",
+        "salary": null,
+        "description": "Имеет опыт в backend-разработке (<highlighttext>Java</highlighttext>, Spring) и обладает базовыми навыками в разработке UI (для дашборда). Умеет писать тесты разных..."
+    },
+    {
+        "name": "Java Software Engineer",
+        "vacancy_id": "124630519",
+        "salary": null,
+        "description": "3+ years of experience in software engineering on <highlighttext>Java</highlighttext> or Kotlin. At least a B1 level of English. "
+    },
+    {
+        "name": "Стажер \"Дата-инженер\"",
+        "vacancy_id": "122037598",
+        "salary": null,
+        "description": "Опыт работы с реляционными базами данных (PostgreSQL, Oracle, MSSQL и др.). Опыт программирования на Python, <highlighttext>Java</highlighttext>. Уверенный пользователь Linux. "
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123095533",
+        "salary": null,
+        "description": "Навыки проектирования и разработки ПО. Уверенное знание <highlighttext>java</highlighttext>. Умение разбираться в существующем коде. Умение пользоваться системами контроля версий (git). "
+    },
+    {
+        "name": "Java-разработчик в IT-компанию",
+        "vacancy_id": "123801705",
+        "salary": {
+            "from": 50000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы с <highlighttext>Java</highlighttext> от 1 года. Знания и навыки использования MySQL. Бизнес-мышление - не просто писать код, а проверять..."
+    },
+    {
+        "name": "Backend-разработчик в IT инновационный сервис",
+        "vacancy_id": "123431720",
+        "salary": {
+            "from": 500000,
+            "to": 1500000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Что ты будешь делать : Интегрироваться с Kafka, Redis, MySQL. <highlighttext>Java</highlighttext> (8+), Spring Boot. PostgreSQL / MySQL. 2–3 года опыта..."
+    },
+    {
+        "name": "Стажер по нагрузочному тестированию",
+        "vacancy_id": "124500448",
+        "salary": null,
+        "description": "Знание концепции объектно-ориентированного программирования. Базовые знания языков программирования на выбор: <highlighttext>Java</highlighttext>, Python. Базовые знания методологии и процесса разработки ПО. "
+    },
+    {
+        "name": "Системный аналитик",
+        "vacancy_id": "123635573",
+        "salary": null,
+        "description": "Опыт проектирования Grafana/Prometheus для отслеживания ETL-процессов. - Опыт работы с <highlighttext>Java</highlighttext>. - Опыт работы с интеграциями. - Опыт создания ER- диаграмм..."
+    },
+    {
+        "name": "Старший Android разработчик",
+        "vacancy_id": "123534562",
+        "salary": null,
+        "description": "Отличное знание Kotlin (а также понимание <highlighttext>Java</highlighttext> как языка legacy-поддержки). Глубокое понимание Android SDK, жизненного цикла компонентов. "
+    },
+    {
+        "name": "Full-stack developer",
+        "vacancy_id": "124575152",
+        "salary": null,
+        "description": "Разработка клиент-серверных приложений на языке <highlighttext>Java</highlighttext>. Работа c ORM системами JPA/Hibernate/EclipseLink. Знание библиотеки классов <highlighttext>Java</highlighttext>. "
+    },
+    {
+        "name": "Java разработчик",
+        "vacancy_id": "123700872",
+        "salary": {
+            "from": null,
+            "to": 340000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> от 3-х лет. Уверенные знания <highlighttext>Java</highlighttext> 8-17 (Collection, Stream API), Spring: (Boot, Web..."
+    },
+    {
+        "name": "Разработчик сайтов +верстка (Wordpress, Bitrix, Modx)",
+        "vacancy_id": "124552058",
+        "salary": {
+            "from": 50000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Владение и опыт управления базой данных, php, phpMyAdmin, <highlighttext>Java</highlighttext> script, sql. - Экспертное владение CSS3, HTML5. - Навыки кроссбраузерной, адаптивной..."
+    },
+    {
+        "name": "Младший разработчик",
+        "vacancy_id": "124114904",
+        "salary": null,
+        "description": "Опыт работы с C#/<highlighttext>Java</highlighttext>/Python либо иными языками программирования, понимание принципов ООП и паттернов проектирования. Понимание принципов работы современных..."
+    },
+    {
+        "name": "Full Stack аналитик",
+        "vacancy_id": "124355995",
+        "salary": null,
+        "description": "Понимание архитектуры интеграций и основных технических интеграционных решений. Уверенное знание PostgreSQL. Умение чтения кода (<highlighttext>Java</highlighttext>, TypeScript). Опыт работы с инструментами..."
+    },
+    {
+        "name": "Junior/Middle QA Automation Engineer (Java / Playwright / REST / Fintech)",
+        "vacancy_id": "124623362",
+        "salary": {
+            "from": 100000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "<highlighttext>Java</highlighttext> 17+: уверенное знание языка, умение писать читаемый и поддерживаемый код. Умение писать и запускать автотесты: Playwright (желательно) или..."
+    },
+    {
+        "name": "Android-разработчик (разработка корпоративного мессенеджера)",
+        "vacancy_id": "124440032",
+        "salary": null,
+        "description": "Опыт разработки на Kotlin и <highlighttext>Java</highlighttext> от 3 лет. — Глубокое понимание архитектуры Android и особенностей платформы. — Знание C/C++ и..."
+    },
+    {
+        "name": "QA Automation Engineer",
+        "vacancy_id": "118964732",
+        "salary": {
+            "from": 80000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт разработки автоматизированных тестов. Опыт работы с Selenium, Postman. Знания Python, <highlighttext>Java</highlighttext> или других языков на уровне написания средств автоматизации..."
+    },
+    {
+        "name": "Middle QA manual",
+        "vacancy_id": "123712650",
+        "salary": null,
+        "description": "Работа с Wireshark. Опыт работы с системами контроля версий (Git, Mercurial). Опыт написания автотестов (стек <highlighttext>Java</highlighttext>, Maven, TestNG, Selenide)."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124383469",
+        "salary": null,
+        "description": "Опыт работы с технологиями по направлению <highlighttext>Java</highlighttext>: Spring (boot, web, data, security, testing), ActiveMQ/Kafka, Maven, Git, Jenkins, Junit. "
+    },
+    {
+        "name": "Инженер (junior-developer)",
+        "vacancy_id": "123703510",
+        "salary": {
+            "from": 85000,
+            "to": 115000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Понимание принципов веб-разработки, знание HTML и CSS, базовые знания JS (понимание принципов современной веб-разработки будет преимуществом). "
+    },
+    {
+        "name": "QA инженер / QA тестировщик (middle / middle+)",
+        "vacancy_id": "124007842",
+        "salary": null,
+        "description": "Опыт в мануальном тестировании мобильных/веб приложений более 2 лет. Опыт тестирования систем со сложной бизнес-логикой. Понимание клиент-серверной..."
+    },
+    {
+        "name": "QA Engineer/Тестировщик (Middle,Senior)",
+        "vacancy_id": "122745358",
+        "salary": null,
+        "description": "Имеешь опыт в тестировании от 2 лет (Web/Mobile/Desktop). Знаешь теорию тестирования и техники тест-дизайна. Работаешь с SQL..."
+    },
+    {
+        "name": "Стажер разработчик-аналитик",
+        "vacancy_id": "123116820",
+        "salary": null,
+        "description": "Уверенно работаешь в Excel, включая функции ВПР и макросы. Знаешь Python и TypeScript/JavaScript. Умеешь работать с большими данными. "
+    },
+    {
+        "name": "Руководитель отдела методологии и аналитики",
+        "vacancy_id": "123659635",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Уверенное владение Excel, Power BI. — Базовые знания <highlighttext>JAVA</highlighttext> и Python будут преимуществом. — Опыт работы с интеграцией отчетности в CRM-системах..."
+    },
+    {
+        "name": "QA-инженер (Backend)",
+        "vacancy_id": "120923548",
+        "salary": null,
+        "description": "Имеете опыт в автоматизации от 1 года на <highlighttext>Java</highlighttext> или Kotlin. Знаете тест-дизайн: умеете применять основные техники, составлять чек..."
+    },
+    {
+        "name": "Middle/Middle+ Frontend (Vue) разработчик",
+        "vacancy_id": "124313800",
+        "salary": null,
+        "description": "По стеку: Vue 3, Typescript, Git, GitLab, HTML/CSS, SСSS (на бэке- <highlighttext>java</highlighttext>/php/laravel). Какие опыт и знания тебе..."
+    },
+    {
+        "name": "Java Developer",
+        "vacancy_id": "123140689",
+        "salary": null,
+        "description": "От 3 лет коммерческого опыта разработки на <highlighttext>Java</highlighttext>. Уверенные знания Spring Boot и разработки REST API. Практический опыт с Spring..."
+    },
+    {
+        "name": "Программист-разработчик",
+        "vacancy_id": "123663976",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Знание языков программирования: Swift, Flutter, MySQL, PHP, <highlighttext>Java</highlighttext> Script, Python, Photoshop. Умение работать с дизайном, реализованном на Figma."
+    },
+    {
+        "name": "QA инженер",
+        "vacancy_id": "123708027",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы в сфере тестирования ПО – не менее 1 года. Опыт разработки автотестов на <highlighttext>Java</highlighttext>. Опыт работы с Linux в..."
+    },
+    {
+        "name": "Системный аналитик",
+        "vacancy_id": "124533831",
+        "salary": null,
+        "description": "Умение работать в инструментах Jira, Confluence, знание Agile и Waterfall. Желательно: знание <highlighttext>Java</highlighttext> или Python, понимание микросервисной архитектуры, опыт чтения..."
+    },
+    {
+        "name": "Ведущий научный сотрудник",
+        "vacancy_id": "124328710",
+        "salary": null,
+        "description": "Желательно знание основ программирования на языке VBA (макросы), приветствуется Python, <highlighttext>Java</highlighttext>. Приветствуется наличие ученой степени. Ответственность, самостоятельность, самоорганизация, обучаемость."
+    },
+    {
+        "name": "AI-специалист/AI Engineer (LLM)",
+        "vacancy_id": "124582787",
+        "salary": {
+            "from": 120000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Инициативного и ответственного человека, который любит свою профессию. Личностные качества. Стратегическое мышление: Умение видеть общую картину и разрабатывать стратегию внедрения..."
+    },
+    {
+        "name": "Middle Backend Engineer (Go / PostgreSQL / Kafka / Kubernetes)",
+        "vacancy_id": "124623684",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Знание английского языка от уровня B1-B2. Высшее образование (готовы рассмотреть также студентов последних курсов). Специальность по образованию..."
+    },
+    {
+        "name": "Android разработчик",
+        "vacancy_id": "123753532",
+        "salary": {
+            "from": 170000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Навыки модульного тестирования (JUnit 5, MockK); - Опыт с Dagger 2. - Миграция legacy-кода (<highlighttext>Java</highlighttext>→Kotlin, XML→Compose и т.п.). - "
+    },
+    {
+        "name": "Инженер-программист",
+        "vacancy_id": "123761950",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт разработки с применением любого объектно-ориентированным языка(<highlighttext>Java</highlighttext>, C#, C++, Python и т.д.). - Базовые знания JavaScript, HTML, CSS. - "
+    },
+    {
+        "name": "Senior Java разработчик",
+        "vacancy_id": "124542101",
+        "salary": null,
+        "description": "...обеспечения на <highlighttext>Java</highlighttext>. Понимаешь принципы ООП, ФП и распространённых паттернов, способов интеграции приложений и протоколов. Уверенно знаешь <highlighttext>Java</highlighttext> SE(Core..."
+    },
+    {
+        "name": "Java разработчик",
+        "vacancy_id": "124599222",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> от 3-х лет. Глубокое понимание <highlighttext>Java</highlighttext> Core: многопоточность, коллекции, JVM. Опыт работы с основными..."
+    },
+    {
+        "name": "Kotlin/ Java разработчик (middle/senior)",
+        "vacancy_id": "123070103",
+        "salary": null,
+        "description": "Опыт разработки на Kotlin или <highlighttext>Java</highlighttext> от 3 лет. Знание принципов объектно-ориентированного программирования и паттернов проектирования. Опыт работы со..."
+    },
+    {
+        "name": "Data-инженер/Стажер",
+        "vacancy_id": "122521564",
+        "salary": {
+            "from": null,
+            "to": 30000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Основы реляционных СУБД. Базовые знания одного из языков программирования (<highlighttext>Java</highlighttext>, Scala, Python). Готовность учиться и разбираться в сложных системах и..."
+    },
+    {
+        "name": "Фронт-энд (Javascript) разработчик (middle)",
+        "vacancy_id": "123536475",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Имеете хороший опыт разработки сложных SPA. Знаете, как организовать клиентскую часть, выбрать оптимальные технологии для поставленной задачи. Успешно использовали в..."
+    },
+    {
+        "name": "Java Team Lead",
+        "vacancy_id": "124597168",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>Java</highlighttext> 11+ от 5 лет. Уверенное знание Spring Boot, Spring Data, Spring Security, WebFlux. "
+    },
+    {
+        "name": "Системный аналитик",
+        "vacancy_id": "124383798",
+        "salary": null,
+        "description": "Понимание структурированного и неструктурированного логирования. Опыт парсинга сложных логов (например, multiline-логи <highlighttext>Java</highlighttext>-приложений). ClickHouse – для хранения и аналитики логов. "
+    },
+    {
+        "name": "Backend Developer",
+        "vacancy_id": "124238603",
+        "salary": null,
+        "description": "Опыт работы в роли Backend Developer 5+ лет. Опыт в оценке и изучении новых трендов в бэкенд разработке. "
+    },
+    {
+        "name": "Системный аналитик",
+        "vacancy_id": "121550244",
+        "salary": null,
+        "description": "Знание основных сетевых протоколов обмена данными. Kafka. Docker, Kubernetes. Опыт работы в интеграционных проектах. Знание языка программирования (<highlighttext>java</highlighttext>, c#, python..."
+    },
+    {
+        "name": "QA Engineer (Middle+ - Senior)",
+        "vacancy_id": "122895083",
+        "salary": null,
+        "description": "Высшее техническое или экономическое образование. Опыт тестирования от 3-х лет. Умение тестировать требования и задавать вопросы. Навык разработки тестовых..."
+    },
+    {
+        "name": "QA Fullstack инженер",
+        "vacancy_id": "123518602",
+        "salary": null,
+        "description": "Опыт покрытия новых функциональностей при помощи инструментов автотестирования (<highlighttext>Java</highlighttext>). - Опыт работы с интеграционным тестированием. - Опыт работы с CI/CD (Jenkins..."
+    },
+    {
+        "name": "Middle/Senior QA engineer",
+        "vacancy_id": "124217908",
+        "salary": null,
+        "description": "Опыт работы в тестировании Web apps от 3 лет. Понимание клиент-серверной архитектуры, опыт тестирования API. Опыт работы с СУБД..."
+    },
+    {
+        "name": "Full-stack QA Engineer (Java, Python)",
+        "vacancy_id": "124491081",
+        "salary": null,
+        "description": "Опыт в автоматизации тестирования не менее 2-х лет с использованием языков <highlighttext>Java</highlighttext> или Python. Хорошее знание теории тестирования и..."
+    },
+    {
+        "name": "Junior Backend разработчик (Golang) в офис г. Новокузнецка",
+        "vacancy_id": "124393151",
+        "salary": {
+            "from": 40000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание других языков программирования (Python, <highlighttext>Java</highlighttext> и др.). Знакомство с Docker или другими инструментами контейнеризации. Базовые знания протоколов (например, HTTP..."
+    },
+    {
+        "name": "Junior Data Analyst/Аналитик данных",
+        "vacancy_id": "123602059",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт с ETL (Airflow, dbt). Знание основ A/B-тестирования. Умение работать с API."
+    },
+    {
+        "name": "Senior/Lead Java разработчик",
+        "vacancy_id": "124352740",
+        "salary": null,
+        "description": "Пожелания к опыту и навыкам кандидата: Уверенное знание <highlighttext>Java</highlighttext>, понимание принципов работы JVM, коммерческий опыт не менее 5 лет. "
+    },
+    {
+        "name": "Тестировщик",
+        "vacancy_id": "124107871",
+        "salary": null,
+        "description": "Инструменты: Опыт с нагрузочным тестированием (JMeter, Locust). Знание мобильного тестирования (Android/iOS). Базовые навыки программирования (для поддержки и расширения автотестов)."
+    },
+    {
+        "name": "Разработчик С++ (middle)",
+        "vacancy_id": "124580812",
+        "salary": null,
+        "description": "Английский язык – чтение технической литературы. Знание других языков программирования (C#, <highlighttext>Java</highlighttext>). Опыт работы с REDIS, Tarantool. Умение работать в VS..."
+    },
+    {
+        "name": "Tech Lead",
+        "vacancy_id": "123487101",
+        "salary": {
+            "from": null,
+            "to": 480000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Знания и умения: Опыт промышленной разработки на <highlighttext>Java</highlighttext>. Опыт проектирования архитектуры приложения. Знание паттернов проектирования ПО. Знание микросервисной архитектуры и..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124108266",
+        "salary": {
+            "from": 4000,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "description": "Обязателен опыт работы с базами данных MongoDB/PostgreSQL, SpringBoot Framework, системой автоматической сборки Maven, с платформой GitHub. Понимание основ XML..."
+    },
+    {
+        "name": "Разработчик банковского ПО (junior)",
+        "vacancy_id": "106172637",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знания методологий разработки программного обеспечения. Владение одним или несколькими языками программирования (<highlighttext>Java</highlighttext>, C#, Python, C++ и т.п.). "
+    },
+    {
+        "name": "Junior specialist",
+        "vacancy_id": "123977910",
+        "salary": null,
+        "description": "JBPM (упрощенная <highlighttext>Java</highlighttext> на lowcode без хардкодной разработки). - Основы синтаксиса, циклы, условные конструкции. - Понимание классов и объектов, работа с методами. "
+    },
+    {
+        "name": "Junior Java-разработчик",
+        "vacancy_id": "123641108",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт работы в системном администрировании (настройка сетей). Знаете языки программирования <highlighttext>Java</highlighttext> и язык запросов SQL. Знаете протоколы HTTP, WebSocket (WS..."
+    },
+    {
+        "name": "Программист-стажер 1С (кадровый резерв)",
+        "vacancy_id": "124625056",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Техническое или математическое образование (возможно неоконченное). Серьезное желание научиться/усовершенствоваться программированию на 1С. Знание что такое БД в теории..."
+    },
+    {
+        "name": "Junior Java разработчик в Омске (стажер)",
+        "vacancy_id": "123895330",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Со знаниями <highlighttext>Java</highlighttext> Core и навыками разработки на <highlighttext>Java</highlighttext> с использованием таких технологий как Spring, Spring Boot, REST API, PostgreSQL. – "
+    },
+    {
+        "name": "Fullstack разработчик Java (преимущественно Frontend)",
+        "vacancy_id": "123896931",
+        "salary": null,
+        "description": "Backend: <highlighttext>Java</highlighttext> 7+, Spring Framework (Core, Boot, MVC, Security), Hibernate Framework, Oracle SQL, Oracle PL/SQL. Сборка: Maven (+..."
+    },
+    {
+        "name": "Инженер по информационной безопасности",
+        "vacancy_id": "123981102",
+        "salary": {
+            "from": 240000,
+            "to": 270000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Умение читать и анализировать различную кодовую базу (<highlighttext>Java</highlighttext>, JS, Python, C, C++, C#) на предмет уязвимостей и НДВ. "
+    },
+    {
+        "name": "Frontend разработчик (Vue.js, React)",
+        "vacancy_id": "123810155",
+        "salary": {
+            "from": 75000,
+            "to": 75000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Уверенные знания Vue.js. Vuex / Vue-router / Vue CLI / Nuxt. Jest (vue-test-utils). TypeScript (vue-class-component, vue-property-decorator). "
+    },
+    {
+        "name": "Python разработчик в офис",
+        "vacancy_id": "124514951",
+        "salary": null,
+        "description": "Уверенное владение языком Python (версии 3.8+). Понимание и применение принципов ООП (инкапсуляция, наследование, полиморфизм). Написание чистого, поддерживаемого кода..."
+    },
+    {
+        "name": "Solidity/Web3 developer",
+        "vacancy_id": "124614886",
+        "salary": {
+            "from": 4000,
+            "to": 6000,
+            "currency": "USD",
+            "gross": true
+        },
+        "description": "Solidity. – Опыт работы с EVM и Solana чейнами. Плюсом будет:"
+    },
+    {
+        "name": "Senior Backend (JAVA) Developer",
+        "vacancy_id": "123728131",
+        "salary": null,
+        "description": "Отличное знание <highlighttext>Java</highlighttext> (Core, Collections, Multithreading, Streams, Generics, Reflections, GC и т.д.). - Опыт работы со Spring (IoC, Boot, Cloud..."
+    },
+    {
+        "name": "ML-инженер",
+        "vacancy_id": "124558116",
+        "salary": {
+            "from": 350000,
+            "to": 400000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Имеешь опыт работы с векторными базами данных и RAG. Работал с A/B-экспериментами."
+    },
+    {
+        "name": "Тестировщик (СберБизнес)",
+        "vacancy_id": "123500836",
+        "salary": null,
+        "description": "Плюсом будет опыт автоматизации тестирования (<highlighttext>Java</highlighttext>, RestAssured/RestTemplate/MockMvc, Selenide). Знания SQL на уровне построения простых запросов. Понимание процессов тестирования..."
+    },
+    {
+        "name": "Программист-разработчик",
+        "vacancy_id": "124142504",
+        "salary": {
+            "from": 10000000,
+            "to": 25000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "description": "Ish joyi: Navoiy sh. (ofisda ishlash). Ish vaqti: To‘liq ish kuni (Dushanba–Shanba). Kompaniya sohasi: Dorixona tarmog‘idagi chakana..."
+    },
+    {
+        "name": "Стажер по нагрузочному тестированию",
+        "vacancy_id": "124493995",
+        "salary": null,
+        "description": "Знание концепции объектно-ориентированного программирования. Базовые знания языков программирования на выбор: <highlighttext>Java</highlighttext>, Python. Базовые знания методологии и процесса разработки ПО. "
+    },
+    {
+        "name": "Старший тестировщик ПО/Middle QA",
+        "vacancy_id": "123916186",
+        "salary": {
+            "from": 160000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Опыт тестирования с использованием API запросов от полугода. Базовые знания языка <highlighttext>java</highlighttext> и инструмент selenium. Базовый уровень владения SQL, понимание..."
+    },
+    {
+        "name": "JavaScript-разработчик/middle",
+        "vacancy_id": "124357978",
+        "salary": null,
+        "description": "Имели высшее техническое профильное образование (программист, программист математик, обучение с нейросетями. Имели уверенный уровень владения JavaScript. Имели опыт работы с..."
+    },
+    {
+        "name": "Senior QA ( Full-stack)",
+        "vacancy_id": "124557798",
+        "salary": null,
+        "description": "Опыт в автоматизации тестирования от 1 года с использованием <highlighttext>Java</highlighttext>, Selenide, RestAssured. Опыт тестирования систем на микросервисной архитектуре. "
+    },
+    {
+        "name": "Junior Backend разработчик",
+        "vacancy_id": "123752966",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Базовые знания <highlighttext>Java</highlighttext>/Kotlin (Core, Collections, Multithreading). Понимание принципов ООП и SOLID. Опыт работы с Spring Boot или готовность быстро..."
+    },
+    {
+        "name": "Системный аналитик (процессинг/онлайн транзакции)",
+        "vacancy_id": "124453255",
+        "salary": null,
+        "description": "Способность читать код на C, C++, <highlighttext>Java</highlighttext>, Python и др. Опыт работы с Swagger и Postman. Подтвержденный опыт работы с..."
+    },
+    {
+        "name": "Начинающий SRE - специалист",
+        "vacancy_id": "124495764",
+        "salary": {
+            "from": 55000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Законченное высшее техническое образование. Основы ООП, простейшие алгоритмы. Базовые знания <highlighttext>Java</highlighttext>/Python необходимы. Знакомство с БД MS SQL или Oracle. "
+    },
+    {
+        "name": "Специалист по тестированию (QА Engineer)",
+        "vacancy_id": "123821411",
+        "salary": {
+            "from": null,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Имеете опыт от 1 года в тестировании коммерческого продукта. Имеете опыт написания тест кейсов по технической документации. Знаете жизненный цикл..."
+    },
+    {
+        "name": "Middle Fullstack разработчик (Vue.js 3 + Nuxt.js)",
+        "vacancy_id": "124525276",
+        "salary": {
+            "from": 100000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знаешь Vue3.js, Nuxt.js (v. 3.0+). TypeScript. Tailwind CSS, Material UI, Nuxt UI или Shadcn. JavaScript. Умеешь работать с..."
+    },
+    {
+        "name": "Java-разработчик (backend)",
+        "vacancy_id": "123872207",
+        "salary": null,
+        "description": "Уверенное владение <highlighttext>Java</highlighttext> 11+ (лямбда-выражения, потоки, параллелизм). Глубокое знание Spring Boot (REST API, Spring Data, Spring Security). "
+    },
+    {
+        "name": "QA (АТ)-тестировщик (автотестирование)",
+        "vacancy_id": "124417664",
+        "salary": null,
+        "description": "Опыт в должности от 3 лет. - Высшее профессиональное образование! - Знания и навыки работы с Go или <highlighttext>Java</highlighttext> или Python."
+    },
+    {
+        "name": "QA Automation Engineer (Java) / Инженер по автоматизированному тестированию на Java",
+        "vacancy_id": "124514357",
+        "salary": {
+            "from": 100000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание одного из тестовых фреймворков: JUnit/TestNG. Опыт разработки на языке <highlighttext>Java</highlighttext>. Опыт работы с CI-инструментами (Jenkins). "
+    },
+    {
+        "name": "ИТ-лидер команды разработки",
+        "vacancy_id": "124226649",
+        "salary": null,
+        "description": "Опыт управления командой разработчиков . Активная жизненная позиция, стрессоустойчивость, последовательность в выполнении задач, структурированность мышления, готовность брать на себя ответственность с..."
+    },
+    {
+        "name": "Java разработчик middle+",
+        "vacancy_id": "124444521",
+        "salary": null,
+        "description": "Хороший уровень знания <highlighttext>Java</highlighttext> Core. Знание Spring Framework. Знание SQL (Oracle / PostgreSQL). Знание Kotlin. Опыт работы с Git. "
+    },
+    {
+        "name": "Strong Junior Java разработчик",
+        "vacancy_id": "124216610",
+        "salary": null,
+        "description": "Сфера работы: банки и финтех-компании. Глубокое знание <highlighttext>Java</highlighttext> Core и принципов ООП. Опыт работы с <highlighttext>Java</highlighttext> 11, Spring Boot..."
+    },
+    {
+        "name": "Java разработчик (Middle), страхование",
+        "vacancy_id": "122593045",
+        "salary": null,
+        "description": "Коммерческий опыт <highlighttext>Java</highlighttext>-разработки (<highlighttext>Java</highlighttext> 17+) 3+ лет. Глубокие знания Spring Boot 3+ (Web, Data, JPA, Webflux..."
+    },
+    {
+        "name": "Android разработчик / Kotlin developer",
+        "vacancy_id": "123617546",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание языка программирования Kotlin и платформы Android. Понимание принципов ООП и паттернов проектирования. Умение работать с RESTful API и библиотеками..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "123099994",
+        "salary": null,
+        "description": "Уверенное знание <highlighttext>Java</highlighttext> Core, опыт коммерческой разработки на нем. Опыт работы со Spring. Опыт использования JPA. Знание SQL. "
+    }
+]

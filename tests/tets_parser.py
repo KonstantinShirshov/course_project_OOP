@@ -1,9 +1,5 @@
 import pytest
 from unittest.mock import patch, Mock
-from typing import List, Dict
-
-import requests
-
 from src.parser import HeadHunterAPI
 
 @pytest.fixture
@@ -13,7 +9,7 @@ def headhunter_api():
     return api
 
 @patch("src.parser.requests.get")
-def test_get_vacancies(mock_get, headhunter_api):
+def test_load_vacancies(mock_get, headhunter_api):
     # Настраиваем мок
     mock_response = Mock()
     mock_response.status_code = 200

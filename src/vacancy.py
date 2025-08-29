@@ -16,34 +16,40 @@ class Vacancy:
         self.salary = self.__salary_valid(salary)
         self.description = description
 
+
     @staticmethod
     def __salary_valid(salary):
-        """Валидация"""
-        if salary:
+        """Валидация и нормализация зарплаты"""
+        if isinstance(salary, dict):
+            # Если salary - словарь (как приходит из API)
             if salary.get('to'):
                 return salary.get('to')
-            else:
+            elif salary.get('from'):
                 return salary.get('from')
+            else:
+                return 0
+        elif isinstance(salary, (int, float)):
+            # Если salary - число (как вы передаете в примере)
+            return salary
         else:
             return 0
 
-    def vacancy_dict(self):
+    def to_dict(self):
         """Создание словаря вакансий"""
         return {'name': self.name, 'vacancy_id': self.vacancy_id, 'salary': self.salary, 'description': self.description}
 
-    def __lt__(self, other):
-        """"Магический метод сравнения вакансий"""
-        return self.salary < other.salary
+    @staticmethod
+    def objects_to_dicts(vacancy_objects):
+        return [vacancy.to_dict() for vacancy in vacancy_objects]
 
-    def __le__(self, other):
-        """"Магический метод сравнения вакансий"""
-        return self.salary <= other.salary
+    @staticmethod
+    def cast_to_object_list(vacancies_list):
+        vacancy_objects = []
+        for vacancy in vacancies_list:
+            vacancy_objects.append(Vacancy(vacancy.get('name'), vacancy.get('vacancy_id'), vacancy.get('salary'), vacancy.get('description')))
+        return vacancy_objects
 
-    def __gt__(self, other):
-        """Магический метод сравнения вакансий"""
-        return self.salary > other.salary
 
-    def __ge__(self, other):
-        """"Магический метод сравнения вакансий"""
-        return self.salary >= other.salary
-
+if __name__ == "__main__":
+    vac1 = Vacancy("Developer", "1021", 100000, "Опыт работы от 2 лет...")
+    print(vac1.salary)

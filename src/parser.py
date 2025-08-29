@@ -1,7 +1,11 @@
+
+
 from typing import List, Dict
 from abc import ABC, abstractmethod
 
 import requests
+
+from src.vacancy import Vacancy
 
 
 class Parser(ABC):
@@ -33,9 +37,20 @@ class HeadHunterAPI(Parser):
 
 
     def get_vacancies(self, keyword) -> List[Dict]:
+        vacancies = self.__load_vacancy(keyword)
+        vacancy_list = []
+        for vacancy in vacancies:
+            dct = {"name": vacancy.get('name'),
+                   "vacancy_id": vacancy.get('id'),
+                   "salary": vacancy.get('salary'),
+                   "description": vacancy['snippet'].get('requirement')}
+            vacancy_list.append(dct)
+        return vacancy_list
+
+    def __load_vacancy(self, keyword) -> List[Dict]:
         self.params['text'] = keyword
         if self.connect() == 200:
-            while self.params.get('page') != 20:
+            while self.params.get('page') != 5:
                 try:
                     response = requests.get(self.__url, headers=self.headers, params=self.params)
                     vacancies = response.json()['items']
@@ -46,10 +61,8 @@ class HeadHunterAPI(Parser):
             return self.vacancies
         print("API не доступен")
 
-
-
-if __name__ == "__main__":
-    hh_api = HeadHunterAPI()
-    search_query = input("Введите поисковый запрос: ")
-    hh_vacancies = hh_api.get_vacancies(search_query)
-    print(hh_vacancies)
+# if __name__ == "__main__":
+#     hh_api = HeadHunterAPI()
+#     search_query = input("Введите поисковый запрос: ")
+#     hh_vacancies = hh_api.get_vacancies(search_query)
+#     print(hh_vacancies)
