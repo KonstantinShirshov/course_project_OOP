@@ -74,7 +74,7 @@ class JSONSaver(Saver):
         with open(self.__filename, 'w', encoding='utf-8') as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
 
-    def add_vacancy(self, new_vacancy):
+    def add_vacancy(self, new_vacancy: Vacancy) -> None:
         """Метод, добавляющий и записывающий вакансию в файл"""
         vacancies = self.read_file()
         new_vacancy_id = new_vacancy.to_dict().get('vacancy_id')
@@ -90,7 +90,7 @@ class JSONSaver(Saver):
         else:
             print("Нет новых вакансий для добавления")
 
-    def delete_vacancy(self, vacancy_for_delete):
+    def delete_vacancy(self, vacancy_for_delete: Vacancy) -> None:
         """Метод для удаления вакансии из файла и сохранения оставшихся вакансий в файл"""
         vacancies = self.read_file()
         vacancy_to_delete_id = vacancy_for_delete.to_dict().get('vacancy_id')
@@ -108,10 +108,3 @@ class JSONSaver(Saver):
             self.write_file(vacancies)
         else:
             print("Файл не содержит удаляемую вакансию")
-
-
-# if __name__=="__main__":
-#     j_saver = JSONSaver()
-#     vac1 = Vacancy("Developer", "1021", 100000, "Опыт работы от 2 лет...")
-#     # j_saver.add_vacancy(vac1)
-#     j_saver.delete_vacancy(vac1)

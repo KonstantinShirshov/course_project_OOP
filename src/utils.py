@@ -1,18 +1,22 @@
 from typing import List, Dict
 
+from src.vacancy import Vacancy
+
 
 def filter_vacancies(vacancies_list: List, filter_word: str) -> List:
     """Функция для фильтрации вакансий по заданному слову в описании"""
 
     filter_word = filter_word.lower()
-    filtered_vacancies_list = [vacancy for vacancy in vacancies_list if filter_word in vacancy.description.lower()]
+    vacancies_list_dicts = Vacancy.objects_to_dicts(vacancies_list)
+    filtered_vacancies_list = [vacancy for vacancy in vacancies_list_dicts if vacancy.get('description') is not None
+                               and filter_word in vacancy.get('description').lower()]
     return filtered_vacancies_list
 
 
 def get_vacancy_by_salary(vacancies_list: List, filter_salary: str) -> List[Dict]:
     """Функция для фильтрации вакансий по заданной зарплате
     (оставляет вакансии с зарплатой выше либо равной указанной пользователем)"""
-
+    vacancies_list = Vacancy.cast_to_object_list(vacancies_list)
     filtered_vacancies_list = []
     for vacancy in vacancies_list:
         if vacancy.salary >= int(filter_salary):
@@ -29,7 +33,6 @@ def sort_vacancies(vacancies_list: List) -> List:
 
 def get_top_vacancies(vacancies_list: List, top_n: int) -> List:
     """Функция для получения топ N вакансий (N указывает пользователь)"""
-    top_vacancies = []
     if top_n < len(vacancies_list):
         top_vacancies = vacancies_list[0:(top_n-1)]
         return top_vacancies
@@ -42,5 +45,5 @@ def print_vacancies(vacancies_list: List) -> None:
     """Функция для вывода вакансий на экран"""
 
     for vacancy in vacancies_list:
-        print(f'Вакансия 1: {vacancy}')
+        print(f'{vacancy.to_dict()}')
     return

@@ -31,12 +31,19 @@ class HeadHunterAPI(Parser):
         self.headers = {'User-Agent': 'HH-User-Agent'}
         self.params = {'text': '', 'page': 0, 'per_page': 100}
         self.vacancies = []
+        self.cache = {}
 
     def connect(self):
+        """Метод, который возвращает статус подключения к API"""
         return requests.get(self.__url).status_code
 
 
     def get_vacancies(self, keyword) -> List[Dict]:
+        """Метод, который сохраняет запрос по ключевому слову"""
+        if keyword in self.cache:
+            print("Returning cached data")
+            return self.cache[keyword]
+
         vacancies = self.__load_vacancy(keyword)
         vacancy_list = []
         for vacancy in vacancies:
@@ -45,9 +52,13 @@ class HeadHunterAPI(Parser):
                    "salary": vacancy.get('salary'),
                    "description": vacancy['snippet'].get('requirement')}
             vacancy_list.append(dct)
+
+        # Сохраняем данные в кэш
+        self.cache[keyword] = vacancy_list
         return vacancy_list
 
     def __load_vacancy(self, keyword) -> List[Dict]:
+        """Метод, который выполняет запрос получения вакансий """
         self.params['text'] = keyword
         if self.connect() == 200:
             while self.params.get('page') != 5:
