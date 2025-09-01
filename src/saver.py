@@ -1,7 +1,7 @@
 import json
 import os
 from abc import ABC, abstractmethod
-from typing import List, Dict
+from typing import Dict, List, Any
 
 from src.vacancy import Vacancy
 
@@ -23,6 +23,7 @@ class Saver(ABC):
     def delete_vacancy(self, vacancy):
         """Функция для удаления вакансий"""
         pass
+
 
 class JSONSaver(Saver):
     """Класс для сохранения данных в файл JSON и работы с ним"""
@@ -58,30 +59,39 @@ class JSONSaver(Saver):
     def ensure_file_exists(self) -> None:
         """Создает файл, если он не существует"""
         if not os.path.exists(self.__filename):
-            with open(self.__filename, 'w', encoding='utf-8') as file:
+            with open(self.__filename, "w", encoding="utf-8") as file:
                 json.dump([], file, ensure_ascii=False, indent=4)
 
-    def read_file(self) -> List[Dict]:
+    def read_file(self) -> List:
         """Метод, который читает данные из файла"""
         try:
-            with open(self.__filename, 'r', encoding='utf-8') as file:
+            with open(self.__filename, "r", encoding="utf-8") as file:
                 return json.load(file)
         except (json.JSONDecodeError, FileNotFoundError):
             return []
 
     def write_file(self, data: List[Dict]) -> None:
         """Метод, который записывает данные в файл"""
-        with open(self.__filename, 'w', encoding='utf-8') as file:
-            json.dump(data, file, ensure_ascii=False, indent=4)
+        vacancies = self.read_file()
+        if not vacancies:
+            vacancies = data
+        else:
+            new_vacancies = []
+            for vacancy in data:
+                if vacancy not in vacancies:
+                    new_vacancies.append(vacancy)
+            vacancies.extend(new_vacancies)
+        with open(self.__filename, "w", encoding="utf-8") as file:
+            json.dump(vacancies, file, ensure_ascii=False, indent=4)
 
     def add_vacancy(self, new_vacancy: Vacancy) -> None:
         """Метод, добавляющий и записывающий вакансию в файл"""
         vacancies = self.read_file()
-        new_vacancy_id = new_vacancy.to_dict().get('vacancy_id')
+        new_vacancy_id = new_vacancy.to_dict().get("vacancy_id")
 
         vacancy_exist = False
         for vacancy in vacancies:
-            if new_vacancy_id == vacancy.get('vacancy_id'):
+            if new_vacancy_id == vacancy.get("vacancy_id"):
                 vacancy_exist = True
                 break
         if not vacancy_exist:
@@ -93,18 +103,19 @@ class JSONSaver(Saver):
     def delete_vacancy(self, vacancy_for_delete: Vacancy) -> None:
         """Метод для удаления вакансии из файла и сохранения оставшихся вакансий в файл"""
         vacancies = self.read_file()
-        vacancy_to_delete_id = vacancy_for_delete.to_dict().get('vacancy_id')
+        vacancy_to_delete_id = vacancy_for_delete.to_dict().get("vacancy_id")
 
         # Ищем вакансию для удаления
         vacancy_to_remove = None
         for vacancy in vacancies:
-            if vacancy_to_delete_id == vacancy.get('vacancy_id'):
+            if vacancy_to_delete_id == vacancy.get("vacancy_id"):
                 vacancy_to_remove = vacancy
                 break
 
         # Если вакансия найдена, удаляем её
         if vacancy_to_remove:
             vacancies.remove(vacancy_to_remove)
-            self.write_file(vacancies)
+            with open(self.__filename, "w", encoding="utf-8") as file:
+                json.dump(vacancies, file, ensure_ascii=False, indent=4)
         else:
             print("Файл не содержит удаляемую вакансию")

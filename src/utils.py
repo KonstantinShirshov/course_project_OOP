@@ -1,4 +1,4 @@
-from typing import List, Dict
+from typing import Dict, List
 
 from src.vacancy import Vacancy
 
@@ -8,8 +8,11 @@ def filter_vacancies(vacancies_list: List, filter_word: str) -> List:
 
     filter_word = filter_word.lower()
     vacancies_list_dicts = Vacancy.objects_to_dicts(vacancies_list)
-    filtered_vacancies_list = [vacancy for vacancy in vacancies_list_dicts if vacancy.get('description') is not None
-                               and filter_word in vacancy.get('description').lower()]
+    filtered_vacancies_list = [
+        vacancy
+        for vacancy in vacancies_list_dicts
+        if vacancy.get("description") is not None and filter_word in vacancy.get("description").lower()
+    ]
     return filtered_vacancies_list
 
 
@@ -34,7 +37,7 @@ def sort_vacancies(vacancies_list: List) -> List:
 def get_top_vacancies(vacancies_list: List, top_n: int) -> List:
     """Функция для получения топ N вакансий (N указывает пользователь)"""
     if top_n < len(vacancies_list):
-        top_vacancies = vacancies_list[0:(top_n-1)]
+        top_vacancies = vacancies_list[0:top_n]
         return top_vacancies
     else:
         top_vacancies = vacancies_list
@@ -44,6 +47,5 @@ def get_top_vacancies(vacancies_list: List, top_n: int) -> List:
 def print_vacancies(vacancies_list: List) -> None:
     """Функция для вывода вакансий на экран"""
 
-    for vacancy in vacancies_list:
-        print(f'{vacancy.to_dict()}')
-    return
+    for i, vacancy in enumerate(vacancies_list, 1):
+        print(f"Вакансия {i}: {vacancy.to_dict()}")
