@@ -28,5 +28,17 @@
         "vacancy_id": "124580689",
         "salary": 500000,
         "description": "Твёрдое знание основ управления (MPC). Опыт коммерческой разработки на C++ и <highlighttext>Python</highlighttext> от 3 лет, из них не менее 1..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124573556",
+        "salary": 25000000,
+        "description": "Опыт разработки высоконагруженных систем и решения задач по оптимизации производительности. <highlighttext>Java</highlighttext> 11, Kotlin, Spring, Gradle. Postgres, Kafka, S3. "
+    },
+    {
+        "name": "QA Engineer",
+        "vacancy_id": "124702607",
+        "salary": 1200000,
+        "description": "Навыки разработки позитивных, негативных и пограничных тестовых сценариев. Знание <highlighttext>Java</highlighttext> (версии 8 и выше). Опыт написания, выполнения и поддержки автоматизированных..."
     }
 ]

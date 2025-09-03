@@ -48,4 +48,7 @@ def print_vacancies(vacancies_list: List) -> None:
     """Функция для вывода вакансий на экран"""
 
     for i, vacancy in enumerate(vacancies_list, 1):
-        print(f"Вакансия {i}: {vacancy.to_dict()}")
+        print(f"Вакансия {i}:\nНазвание вакансии: {vacancy.to_dict()['name']}\n"
+              f"Номер вакансии: {vacancy.to_dict()['vacancy_id']}\n"
+              f"Предлагаемая заработная плата: {vacancy.to_dict()['salary']}\n"
+              f"Описание вакансии: {vacancy.to_dict()['description']}")
