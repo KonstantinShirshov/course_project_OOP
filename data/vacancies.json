@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Middle/Senior Backend Developer (Python)",
+        "vacancy_id": "124702015",
+        "salary": 1200000,
+        "description": "3-5+ лет опыта работы с <highlighttext>Python</highlighttext> в бэкенд-разработке. Глубокие знания PostgreSQL: работа с индексами, оптимизация запросов, репликация. "
+    },
+    {
+        "name": "Backend-разработчик",
+        "vacancy_id": "124605294",
+        "salary": 1000000,
+        "description": "Опыт работы с серверной частью (PHP/Laravel, Node.js или <highlighttext>Python</highlighttext>/Django/Flask). Работа с базами данных (MySQL/PostgreSQL). "
+    },
+    {
+        "name": "Финансовый менеджер с последующим ростом до CFO",
+        "vacancy_id": "124411531",
+        "salary": 900000,
+        "description": "Умение строить финансовые модели в Excel и проводить экономические расчёты. Приветствуется опыт в программировании <highlighttext>Python</highlighttext>, Machine Learning. Высокий уровень аналитического..."
+    },
+    {
+        "name": "Junior Full Stack Developer",
+        "vacancy_id": "122418610",
+        "salary": 500000,
+        "description": "...опыт работы с: <highlighttext>Python</highlighttext> (от 6 месяцев практики - понимание как работают фреймворки : pandas, numpy). FastAPI или аналогичными <highlighttext>Python</highlighttext>-фреймворками. "
+    },
+    {
+        "name": "Robotics Software Engineer",
+        "vacancy_id": "124580689",
+        "salary": 500000,
+        "description": "Твёрдое знание основ управления (MPC). Опыт коммерческой разработки на C++ и <highlighttext>Python</highlighttext> от 3 лет, из них не менее 1..."
+    },
+    {
+        "name": "Java-разработчик",
+        "vacancy_id": "124573556",
+        "salary": 25000000,
+        "description": "Опыт разработки высоконагруженных систем и решения задач по оптимизации производительности. <highlighttext>Java</highlighttext> 11, Kotlin, Spring, Gradle. Postgres, Kafka, S3. "
+    },
+    {
+        "name": "QA Engineer",
+        "vacancy_id": "124702607",
+        "salary": 1200000,
+        "description": "Навыки разработки позитивных, негативных и пограничных тестовых сценариев. Знание <highlighttext>Java</highlighttext> (версии 8 и выше). Опыт написания, выполнения и поддержки автоматизированных..."
+    }
+]
